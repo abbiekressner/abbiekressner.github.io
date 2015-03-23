@@ -43,8 +43,16 @@ h1 {
 }
 
 h2 {
-    margin-top: 0;
+    margin-top: 50px;
     font-variant:small-caps;
+}
+
+h2#awards, h2#work-experience, h2#teaching-experience, h2#professional-activities, h2#community-activities {
+  display: none;
+}
+
+h2#awards + ul, h2#work-experience + ul, h2#teaching-experience + ul, h2#professional-activities + ul, h2#community-activities + ul {
+  display: none;
 }
 
 ul {

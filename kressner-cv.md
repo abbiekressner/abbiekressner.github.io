@@ -23,8 +23,8 @@ Education
 * B.S. Biomedical Engineering · Washington University in St. Louis · 2007  
 
 
-Honors and awards
------------------
+Awards
+------
 
 * National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW) · 2014-2015
 
@@ -38,21 +38,11 @@ Honors and awards
 
 * ISAAR and GN Foundation Young Scientist Conference Scholarship · 2011
 
-* First place in 21st Annual SAIC Student Paper Competition · 2010
-
-* Department of Education training grant award for graduate study, Vanderbilt University · 2008
-
-* Tau Beta Pi Engineering Honor Society · Washington University in St. Louis · 2006-2007
+* 21st Annual SAIC Student Paper Competition · First place · 2010
 
 * Jeffrey & Nancy Balter Biomedical Engineering Scholar · Washington University in St. Louis · 2004-2007
 
-* Gustav Kurt Mesmer Scholar · Washington University in St. Louis · 2004-2005
-
 * Society of Women Engineers Scholar · Chicago Chapter · 2004-2005
-
-* James R. Hoffa Memorial Scholar · International Brotherhood of Teamsters · 2004-2005
-
-* Illinois State Scholar · 2004
 
 
 Publications
