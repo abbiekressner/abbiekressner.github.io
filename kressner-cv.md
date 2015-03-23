@@ -7,56 +7,63 @@ Abbie Kressner
 
 Education
 ---------
-
-* Ph.D. Electrical and Computer Engineering · Georgia Institute of Technology · 2015  
+* 2015
+:   Ph.D. Electrical and Computer Engineering · Georgia Institute of Technology
 
 >   Thesis: *Structure in time-frequency binary masking*  
 >   Advisor: Dr. Christopher J. Rozell
 
-* M.S. Electrical and Computer Engineering · Georgia Institute of Technology · 2011  
+* 2011
+:   M.S. Electrical and Computer Engineering · Georgia Institute of Technology
 
 >   Thesis: *Auditory models for evaluating algorithms*  
 >   Advisor: Dr. Christopher J. Rozell
 
-* Graduate studies in Audiology · Vanderbilt University · 2008  
+* 2008
+:   Graduate studies in Audiology · Vanderbilt University
 
-* B.S. Biomedical Engineering · Washington University in St. Louis · 2007  
+* 2007
+:   B.S. Biomedical Engineering · Washington University in St. Louis
 
 
-Awards
+Awards {.htmlhide}
 ------
+* 2014-2015
+:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
 
-* National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW) · 2014-2015
+* 2014
+:   Chih Foundation Research Award
 
-* Chih Foundation Research Award · 2014
+* 2010-2015
+:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
 
-* National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) · 2010-2015
+* 2010-2013
+:   National Defense Science & Engineering Graduate (NDSEG) Fellowship
 
-* National Defense Science & Engineering Graduate (NDSEG) Fellowship · 2010-2013
+* 2009-2013
+:   President's Fellowship · Georgia Institute of Technology
 
-* President's Fellowship · Georgia Institute of Technology · 2009-2013
+* 2011
+:   ISAAR and GN Foundation Young Scientist Conference Scholarship
 
-* ISAAR and GN Foundation Young Scientist Conference Scholarship · 2011
+* 2010
+:   21st Annual SAIC Student Paper Competition · First place
 
-* 21st Annual SAIC Student Paper Competition · First place · 2010
+* 2004-2007
+:   Jeffrey & Nancy Balter Biomedical Engineering Scholar · Washington University in St. Louis
 
-* Jeffrey & Nancy Balter Biomedical Engineering Scholar · Washington University in St. Louis · 2004-2007
-
-* Society of Women Engineers Scholar · Chicago Chapter · 2004-2005
+* 2004-2005
+:   Society of Women Engineers Scholar
 
 
 Publications
 ------------
-
 ### Journal publications
-
 * A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, in press.
 
 * A.A. Kressner, D.V. Anderson, and C.J. Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-evaluating.pdf), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
-
 ### Conference publications
-
 * A.A. Kressner and C.J. Rozell. Speech understanding in noise provided by a simulated cochlear implant processor based on matching pursuit. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, NY, October 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-speech.pdf)]
 
 * A.A. Kressner, D.V. Anderson, and C.J. Rozell. Causal binary mask estimation for speech enhancement using sparsity constraints. In Proceedings of Meetings on Acoustics (POMA), Montreal, Canada, June 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-causal.pdf)]
@@ -67,9 +74,7 @@ Publications
 
 * A. Charles, A.A. Kressner, and C.J. Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, AZ, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles-2011-causal.pdf)]
 
-
 ### Conference abstracts
-
 * A.A. Kressner and C.J. Rozell. The influence of structure in binary mask estimation error on speech intelligibility. In IHCON 2014 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2014.
 
 * A.A. Kressner and C.J. Rozell. Speech separation using Matching Pursuit for time-frequency masking. In Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop, Lausanne, Switzerland, July 2013.
@@ -82,17 +87,14 @@ Publications
 
 * M.J. Jensen, M.P. Linkenkaer, and A.A. Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2008.
 
-
 ### Other reports
-
 * A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015.
 
 * A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, GA, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner-2011-auditory.pdf)]
 
 
-Work experience
+Work experience {.htmlhide}
 ---------------
-
 * Visiting scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
     - National Science Foundation Graduate Research Opportunities Worldwide (GROW) experience
@@ -118,9 +120,8 @@ Work experience
     - Collaborated with engineering team in designing a field communication system that creates true 3D spatial relationships among users by merging multi-channel voice with global positioning and head orientation data
 
 
-Teaching experience
+Teaching experience {.htmlhide}
 -------------------
-
 * Course development · Georgia Tech · Atlanta, Georgia, USA · 5/2013 to 6/2014
 
     - Development of signal processing laboratory assignment based on psychoacoustic masking
@@ -134,17 +135,19 @@ Teaching experience
     - Subjects included Advanced Engineering Mathematics, Calculus, Differential Equations, and Engineering & Scientific Computing
 
 
-Professional activities
+Professional activities {.htmlhide}
 -----------------------
+* 2014-present
+:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
 
-* Reviewer for IEEE Transactions on Audio, Speech, and Language Processing · 2014-present
+* 2013-2014
+:   Member of American Auditory Society
 
-* Member of American Auditory Society · 2013-2014
+* 2010-2014
+:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
 
-* Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society · 2010-2014
 
-
-Community activities
+Community activities {.htmlhide}
 --------------------
-
-* Board member of Revive Atlanta Initiative, Inc. · 2010-2012
+* 2010-2012
+:   Board member of Revive Atlanta Initiative, Inc.

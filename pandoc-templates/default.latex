@@ -130,7 +130,12 @@ $endif$
 \usepackage{changepage}
 \let\oldquote=\quote
 \let\endoldquote=\endquote
-\renewenvironment{quote}{\begin{adjustwidth}{1cm}{1cm}\begin{oldquote}}{\end{oldquote}\end{adjustwidth}}
+\renewenvironment{quote}{\begin{adjustwidth}{2.75cm}{0cm}\begin{oldquote}}{\end{oldquote}\end{adjustwidth}}
+
+\usepackage{enumitem}
+\SetLabelAlign{parright}{\parbox[t]{\labelwidth}{\raggedleft#1}}
+% ,align=parright
+\setlist[description]{leftmargin=2.25cm,style=sameline,font=\normalfont,align=parright}
 
 \begin{document}
 $if(title)$
