@@ -101,11 +101,11 @@ dd {
     margin-left: 75px;
 }
 
-@media only screen and (max-device-width: 1024px) {
+@media only screen and (min-device-width : 320px) and (max-device-width: 1024px) {
   #container {
+      padding: 0px;
       margin: auto;
       width: 95%;
-      padding: 0px;
   }
 
   #contact {
@@ -127,3 +127,6 @@ dd {
     font-size: 1.5em;
   }
 }
+
+
+/* <meta name="viewport" content="width=device-width, initial-scale=1.0"> */
