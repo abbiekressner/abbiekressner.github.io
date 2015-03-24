@@ -10,7 +10,7 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python kressner-cv.py html $(GRAVATAR_OPTION) < $< | pandoc -t html+definition_lists -c kressner-cv.css -o index.html --section-divs --email-obfuscation=javascript
+	python kressner-cv.py html $(GRAVATAR_OPTION) < $< | pandoc -t html+definition_lists -c kressner-cv.css -o index.html --section-divs
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	python kressner-cv.py tex < $< | pandoc $(PANDOCARGS) --variable=colorlinks --template=$(LATEX_TEMPLATE) -H header.tex -o $@
