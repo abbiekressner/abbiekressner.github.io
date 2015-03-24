@@ -137,7 +137,7 @@ def html(lines, contact_lines, *args):
         contact_lines.insert(0, "<img src='{}' />".format(gravatar))
 
     lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
-                 ("<p>" + "</p><p>".join(contact_lines) + "</p><p><a href='/kressner-cv.pdf'>curriculum vitae pdf</a></p>"))
+                 ("<p>" + "</p><p>".join(contact_lines) + "</p><p><a href='/kressner-cv.pdf'>curriculum vitae</a></p>"))
     lines.insert(1, "<div>")
     lines.append("</div>")
 
