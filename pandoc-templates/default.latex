@@ -82,12 +82,14 @@ $endif$
 \else
   \usepackage[unicode=true]{hyperref}
 \fi
+\usepackage{color}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \hypersetup{breaklinks=true,
             bookmarks=true,
             pdfauthor={$author-meta$},
             pdftitle={$title-meta$},
             colorlinks=$if(colorlinks)$true$else$false$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
+            urlcolor=$if(urlcolor)$$urlcolor$$else$gray$endif$,
             linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
             pdfborder={0 0 0}}
 $if(links-as-notes)$
