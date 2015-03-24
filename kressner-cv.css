@@ -115,18 +115,32 @@ dd {
       padding-bottom: 20px;
   }
   body {
-    font-size: 16px;
+    font-size: 14px;
   }
   h1 {
-    font-size: 32px;
+    font-size: 28px;
+    text-align: center;
   }
   h2 {
-    font-size: 24px;
+    font-size: 16px;
+    text-align: center;
   }
   h3 {
-    font-size: 24px;
+    font-size: 16px;
+    text-align: center;
+  }
+  ul li ul li {
+      margin: 0px;
+  }
+  blockquote {
+    padding: 0 25px;
+  }
+  dt {
+      float: left;
+      clear: left;
+      width: 50px;
+  }
+  dd {
+      margin-left: 50px;
   }
 }
-
-
-/* <meta name="viewport" content="width=device-width, initial-scale=1.0"> */
