@@ -101,7 +101,7 @@ dd {
     margin-left: 75px;
 }
 
-@media all and (max-width: 800px) {
+@media only screen and (max-device-width: 1024px) {
   #container {
       margin: auto;
       width: 95%;
