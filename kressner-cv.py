@@ -44,7 +44,7 @@ import sys
 import re
 
 
-GRAVATAR = "http://cv.abbiekressner.com/headshot_abbiekressner.jpg"
+GRAVATAR = "http://cv.abbiekressner.com/headshot-abbiekressner.jpg"
 
 
 class Processor(object):

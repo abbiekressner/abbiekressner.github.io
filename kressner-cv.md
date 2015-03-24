@@ -10,13 +10,13 @@ Education
 * 2015
 :   Ph.D. Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: *Structure in time-frequency binary masking*  
+>   Thesis: Structure in time-frequency binary masking  
 >   Advisor: Dr. Christopher J. Rozell
 
 * 2011
 :   M.S. Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: *Auditory models for evaluating algorithms*  
+>   Thesis: Auditory models for evaluating algorithms  
 >   Advisor: Dr. Christopher J. Rozell
 
 * 2008
@@ -88,7 +88,7 @@ Publications
 * M.J. Jensen, M.P. Linkenkaer, and A.A. Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2008.
 
 ### Other reports
-* A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner-2015a-structure.pdf)]
+* A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015. 
 
 * A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, GA, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner-2011-auditory.pdf)]
 
