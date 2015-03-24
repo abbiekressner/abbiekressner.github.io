@@ -29,12 +29,12 @@ img {
     display: none;
 }
 
-a {
+a, a[href^="mailto"] {
     text-decoration: none;
     color: #333;
 }
 
-a:hover {
+a:hover, a[href^="mailto"]:hover {
     border-bottom: 1px dashed #dedede;
     color: #bbb; /* #333 */
 }
