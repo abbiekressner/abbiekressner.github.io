@@ -136,8 +136,7 @@ $endif$
 
 \usepackage{enumitem}
 \SetLabelAlign{parright}{\parbox[t]{\labelwidth}{\raggedleft#1}}
-% ,align=parright
-\setlist[description]{leftmargin=2.25cm,style=sameline,font=\normalfont,align=parright}
+\setlist[description]{leftmargin=2.25cm,style=sameline,font=\normalfont} % ,align=parright
 
 \begin{document}
 $if(title)$
