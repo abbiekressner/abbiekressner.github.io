@@ -2,7 +2,9 @@
 \usepackage{tgpagella}
 \usepackage{titlesec}
 \usepackage{needspace}
-\titleformat{\section}{\huge\sffamily\thispagestyle{empty}}{\thesection}{1em}{}
+\setmainfont{Lato}
+\newfontfamily\myfont{Lato Light}
+\titleformat{\section}{\Huge\myfont\thispagestyle{empty}}{\thesection}{1em}{}
 \titlespacing{\section}{0pt}{0pt}{1em}
 \titleformat{\subsection}{\large\bfseries\scshape}{\thesubsection}{1em}{}
 \titleformat{\subsubsection}{\Needspace*{4\baselineskip}\bfseries}{\thesubsubsection}{1em}{}

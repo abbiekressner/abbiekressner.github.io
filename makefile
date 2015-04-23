@@ -14,7 +14,7 @@ html:  clean $(HTML)
 	python kressner-cv.py html $(GRAVATAR_OPTION) < $< | pandoc -t html+definition_lists -c kressner-cv.css --template=$(HTML_TEMPLATE) -o index.html --section-divs --email-obfuscation=none
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python kressner-cv.py tex < $< | pandoc $(PANDOCARGS) --variable=colorlinks --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	python kressner-cv.py tex < $< | pandoc $(PANDOCARGS) --latex-engine=xelatex --variable colorlinks --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
