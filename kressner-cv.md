@@ -1,28 +1,30 @@
-Abbie Kressner
+Abigail Kressner
 ==============
 
 [abbiekressner@gatech.edu](mailto:abbiekressner@gatech.edu)
 <http://cv.abbiekressner.com>
 
 
+Mailing address
+---------------
+56 Mobile Ave NE, Apt B, Atlanta, Georgia, USA, +1 630 426 9060
+
+
 Education
 ---------
-* 2015
+* 2015 May
 :   Ph.D. Electrical and Computer Engineering · Georgia Institute of Technology
 
 >   Thesis: Structure in time-frequency binary masking  
 >   Advisor: Dr. Christopher J. Rozell
 
-* 2011
+* 2011 August
 :   M.S. Electrical and Computer Engineering · Georgia Institute of Technology
 
 >   Thesis: Auditory models for evaluating algorithms  
 >   Advisor: Dr. Christopher J. Rozell
 
-* 2008
-:   Graduate studies in Audiology · Vanderbilt University
-
-* 2007
+* 2007 December
 :   B.S. Biomedical Engineering · Washington University in St. Louis
 
 
@@ -54,45 +56,6 @@ Awards {.htmlhide}
 
 * 2004-2005
 :   Society of Women Engineers Scholar
-
-
-Publications
-------------
-### Journal publications
-* A.A. Kressner and A. Westermann and J.M. Buchholz and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, in review.
-
-* A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, in press.
-
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-evaluating.pdf), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
-
-### Conference publications
-* A.A. Kressner and C.J. Rozell. Speech understanding in noise provided by a simulated cochlear implant processor based on matching pursuit. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, NY, October 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-speech.pdf)]
-
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Causal binary mask estimation for speech enhancement using sparsity constraints. In Proceedings of Meetings on Acoustics (POMA), Montreal, Canada, June 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-causal.pdf)]
-
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. A novel binary mask estimator based on sparse approximation. In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Vancouver, Canada, May 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-novel.pdf)]
-
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Robustness of the Hearing Aid Speech Quality Index (HASQI). In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, NY, October 2011. [[paper](http://cv.abbiekressner.com/papers/kressner-2011-robustness.pdf)]
-
-* A. Charles, A.A. Kressner, and C.J. Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, AZ, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles-2011-causal.pdf)]
-
-### Conference abstracts
-* A.A. Kressner and C.J. Rozell. The influence of structure in binary mask estimation error on speech intelligibility. In IHCON 2014 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2014.
-
-* A.A. Kressner and C.J. Rozell. Speech separation using Matching Pursuit for time-frequency masking. In Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop, Lausanne, Switzerland, July 2013.
-
-* A.A. Kressner, A.S. Charles, and C.J. Rozell. Causal Locally Competitive Algorithm for the sparse decomposition of audio signals. In IEEE Women's Workshop on Communications and Signal Processing, Banff, Canada, July 2012.
-
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Computational auditory models validate the intelligibility benefit of efficient filters. In International Symposium on Auditory and Audiological Research (ISAAR) 2011, Nyborg, Denmark, August 2011.
-
-* A.A. Kressner, C.J. Rozell, and D.V. Anderson. Predicting speech quality using a computational auditory model. In IHCON 2010 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2010.
-
-* M.J. Jensen, M.P. Linkenkaer, and A.A. Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2008.
-
-### Other reports
-* A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015. 
-
-* A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, GA, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner-2011-auditory.pdf)]
 
 
 Work experience {.htmlhide}
