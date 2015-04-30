@@ -61,7 +61,7 @@ Publications
 ### Journal publications
 * A.A. Kressner and A. Westermann and J.M. Buchholz and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, in review.
 
-* A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, in press.
+* A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, 137(4):2025-2035, April 2015. [[paper](http://dx.doi.org/10.1121/1.4916271)]
 
 * A.A. Kressner, D.V. Anderson, and C.J. Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://cv.abbiekressner.com/papers/kressner-2013-evaluating.pdf), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
