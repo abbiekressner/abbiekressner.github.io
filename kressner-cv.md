@@ -32,6 +32,9 @@ Awards {.htmlhide}
 :   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
 
 * 2014
+:   International Hearing Aid Conference (IHCON) Student Scholarship
+
+* 2014
 :   Chih Foundation Research Award
 
 * 2010-2015
