@@ -7,23 +7,23 @@ Abbie Kressner
 
 Education
 ---------
-* 2015
-:   Ph.D. Electrical and Computer Engineering · Georgia Institute of Technology
+* 2011-2015
+:   Ph.D. · Electrical and Computer Engineering · Georgia Institute of Technology
 
 >   Thesis: Structure in time-frequency binary masking  
 >   Advisor: Dr. Christopher J. Rozell
 
-* 2011
-:   M.S. Electrical and Computer Engineering · Georgia Institute of Technology
+* 2009-2011
+:   M.S. · Electrical and Computer Engineering · Georgia Institute of Technology
 
 >   Thesis: Auditory models for evaluating algorithms  
 >   Advisor: Dr. Christopher J. Rozell
 
 * 2008
-:   Graduate studies in Audiology · Vanderbilt University
+:   Audiology · Vanderbilt University
 
-* 2007
-:   B.S. Biomedical Engineering · Washington University in St. Louis
+* 2004-2007
+:   B.S. · Biomedical Engineering · Washington University in St. Louis
 
 
 Awards {.htmlhide}
@@ -102,7 +102,7 @@ Work experience {.htmlhide}
 ---------------
 * National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
-    - Implemented a system that facilitates evaluation of signal processing algorithms with cochlear implant recipients in a realistic virtual environment 
+    - Investigated the influence of binary time-frequency gain manipulation errors in cochlear implant recipients 
 
 * United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
 
