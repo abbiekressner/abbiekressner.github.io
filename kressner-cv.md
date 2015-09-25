@@ -5,6 +5,10 @@ Abbie Kressner
 <http://cv.abbiekressner.com>
 
 
+PostDoc at the Technical University of Denmark  
+Department of Electrical Engineering  
+
+
 Education
 ---------
 * 2011-2015
