@@ -1,7 +1,7 @@
 Abbie Kressner
 ==============
 
-[abbiekressner@gatech.edu](mailto:abbiekressner@gatech.edu)
+[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)
 <http://cv.abbiekressner.com>
 
 
