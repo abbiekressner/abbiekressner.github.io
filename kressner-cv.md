@@ -5,7 +5,7 @@ Abbie Kressner
 <http://cv.abbiekressner.com>
 
 
-PostDoc at the Technical University of Denmark  
+Postdoc at the Technical University of Denmark  
 Department of Electrical Engineering  
 
 
