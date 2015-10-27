@@ -6,4 +6,4 @@ Abigail Anne Kressner
 
 ## List of publications since last submission
 ### Articles
-* A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, 137(4):2025-2035, April 2015.
+* \* A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, 137(4):2025-2035, April 2015.
