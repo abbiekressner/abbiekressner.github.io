@@ -20,10 +20,11 @@ body {
 }
 
 #contact p {
-  line-height: 75%;
+  line-height: 135%;
 }
 
 img {
+    margin-bottom: 10px;
     width: 91px;
     height: auto;
     -webkit-border-radius: 50px;
@@ -88,7 +89,7 @@ ul li ul li {
 blockquote {
   padding: 0 15px;
   color: #333;
-  border-left: 3px solid #666;
+  border-left: 1px solid #666;
 }
 
 /* Definitions */

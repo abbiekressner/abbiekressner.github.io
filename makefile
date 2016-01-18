@@ -1,4 +1,4 @@
-SRC = $(wildcard *.md)
+SRC = kressner-cv.md
 
 PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
@@ -11,10 +11,10 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md $(HTML_TEMPLATE)
-	python kressner-cv.py html $(GRAVATAR_OPTION) < $< | pandoc -t html+definition_lists -c kressner-cv.css --template=$(HTML_TEMPLATE) -o index.html --section-divs --email-obfuscation=none
+	python kressner-cv.py html < $< | pandoc -t html+definition_lists -c kressner-cv.css --template=$(HTML_TEMPLATE) -o index.html --section-divs --email-obfuscation=none
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python kressner-cv.py tex < $< | pandoc $(PANDOCARGS) --latex-engine=xelatex --variable colorlinks --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	pandoc --latex-engine=xelatex --variable colorlinks --template=$(LATEX_TEMPLATE) -H header.tex -o kressner-cv.pdf $(SRC) 
 
 ifeq ($(OS),Windows_NT)
   # on Windows

@@ -1,16 +1,15 @@
-Abbie Kressner
-==============
+# Abbie Kressner
+<!--- Leave this line blank -->
+<!--- Leave this line blank -->
+Abigail Anne Kressner  
+Postdoctoral Researcher  
+Hearing Systems Group  
+Technical University of Denmark  
+[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)  
+[http://cv.abbiekressner.com](http://cv.abbiekressner.com)
 
-[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)
-<http://cv.abbiekressner.com>
 
-
-Postdoc at the Technical University of Denmark  
-Department of Electrical Engineering  
-
-
-Education
----------
+## Education
 * 2011-2015
 :   Ph.D. · Electrical and Computer Engineering · Georgia Institute of Technology
 
@@ -29,26 +28,38 @@ Education
 * 2004-2007
 :   B.S. · Biomedical Engineering · Washington University in St. Louis
 
+## Experience {.htmlhide}
+* Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
 
-Awards {.htmlhide}
-------
-* 2015-2017
-:   Postdoc grant from the Danish Council for Independent Research
+    -  Investigating cochlear implant speech coding errors
 
-* 2014-2015
-:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
+* Visiting Scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
+    - Investigated the influence of binary time-frequency gain manipulation errors in cochlear implant recipients 
+
+* Consultant · United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
+
+    - Advised in the areas of acoustics and signal processing for new product development
+
+* Research Intern · Widex A/S · Vaerloese, Denmark · 1/2008 to 7/2008
+
+    - Investigated the influence of earmold venting on hearing aid feedback to facilitate better vent placement
+
+* Research Intern · Knowles Electronics, LLC · Itasca, Illinois, USA · 5/2007 to 8/2007
+
+    - Investigated the use of two directional microphones for sound source separation in the ear canal
+
+* Research Intern · AuSIM, Inc · Palo Alto, California, USA · 5/2006 to 8/2006
+
+    - Aided in the design of a field communication system that maintains 3D spatial relationships among users
+
+
+## Awards {.htmlhide}
 * 2014
 :   International Hearing Aid Conference (IHCON) Student Scholarship
 
 * 2014
 :   Chih Foundation Research Award
-
-* 2010-2015
-:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
-
-* 2010-2013
-:   National Defense Science & Engineering Graduate (NDSEG) Fellowship
 
 * 2009-2013
 :   President's Fellowship · Georgia Institute of Technology
@@ -65,9 +76,57 @@ Awards {.htmlhide}
 * 2004-2005
 :   Society of Women Engineers Scholar
 
+## Research support {.htmlhide}
+* 2015-2017
+:   Postdoc grant from the Danish Council for Independent Research
 
-Publications
-------------
+* 2014-2015
+:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
+
+* 2010-2015
+:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+
+* 2010-2013
+:   National Defense Science & Engineering Graduate (NDSEG) Fellowship
+
+## Professional activities {.htmlhide}
+* 2014-present
+:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
+
+* 2013-2014
+:   Member of American Auditory Society
+
+* 2010-2014
+:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
+
+* 2010-2012
+:   Board member of Revive Atlanta Initiative, Inc.
+
+## Teaching activities {.htmlhide}
+* Course development · Georgia Institute of Technology · 5/2013 to 6/2014
+
+    - Development of signal processing laboratory assignment based on psychoacoustic masking
+
+* Teacher's assistant · Washington University in St. Louis · 8/2007 to 12/2007
+
+    - Department of Biomedical Engineering · Quantitative Physiology
+
+* Tutor · Washington University in St. Louis · 8/2005 to 5/2007
+
+    - Advanced Engineering Mathematics, Calculus, Differential Equations, and Engineering & Scientific Computing
+
+<!--- 
+# Student supervision {.htmlhide}
+* Rasmus Malik Thaarup Hegh and Kristine Juhl · 2016
+
+    - Bachelor student project: *Analysis of estimated binary mask errors*  
+
+* Technical Audiology and Experimental Hearing Science · 2016
+
+    - Masters student project: *Perceptual evaluation of noise reduction algorithm errors*
+-->
+
+## Publications
 ### Journal publications
 * A.A. Kressner and A. Westermann and J.M. Buchholz and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, in review.
 
@@ -103,59 +162,3 @@ Publications
 * A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015. 
 
 * A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, GA, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner-2011-auditory.pdf)]
-
-
-Work experience {.htmlhide}
----------------
-* National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
-
-    - Investigated the influence of binary time-frequency gain manipulation errors in cochlear implant recipients 
-
-* United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
-
-    - Advised in the areas of acoustics and signal processing for new product development
-
-* Widex A/S · Vaerloese, Denmark · 1/2008 to 7/2008
-
-    - Investigated the influence of earmold venting on hearing aid feedback to identify a better protocol for vent placement
-
-* Knowles Electronics, LLC · Itasca, Illinois, USA · 5/2007 to 8/2007
-
-    - Investigated the use of two directional microphones for sound source separation in the ear canal
-
-* AuSIM, Inc · Palo Alto, California, USA · 5/2006 to 8/2006
-
-    - Collaborated with engineering team in designing a field communication system that creates true 3D spatial relationships among users
-
-
-Teaching experience {.htmlhide}
--------------------
-* Course development · Georgia Institute of Technology · 5/2013 to 6/2014
-
-    - Development of signal processing laboratory assignment based on psychoacoustic masking
-
-* Teacher's assistant · Washington University in St. Louis · 8/2007 to 12/2007
-
-    - Department of Biomedical Engineering · Quantitative Physiology
-
-* Tutor · Washington University in St. Louis · 8/2005 to 5/2007
-
-    - Subjects included Advanced Engineering Mathematics, Calculus, Differential Equations, and Engineering & Scientific Computing
-
-
-Professional activities {.htmlhide}
------------------------
-* 2014-present
-:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
-
-* 2013-2014
-:   Member of American Auditory Society
-
-* 2010-2014
-:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
-
-
-Community activities {.htmlhide}
---------------------
-* 2010-2012
-:   Board member of Revive Atlanta Initiative, Inc.
