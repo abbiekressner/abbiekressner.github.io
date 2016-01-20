@@ -132,7 +132,7 @@ Technical University of Denmark
 
 ## Publications
 ### Journal publications
-* A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of American, under review.
+* A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, under review.
 
 * A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, in press.
 
