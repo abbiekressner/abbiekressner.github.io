@@ -54,7 +54,7 @@ Technical University of Denmark
 
 ## Research support {.htmlhide}
 * 2015-2017
-:   Postdoc grant from the Danish Council for Independent Research
+:   Postdoctoral grant from Det Frie Forskningsråd (DFF; Danish Council for Independent Research)
 
 * 2014-2015
 :   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
@@ -107,6 +107,11 @@ Technical University of Denmark
 
 
 ## Teaching activities {.htmlhide}
+<!---
+Signal processing exercises in Torsten's course?
+Speaker identification exercise with Tobias?
+-->
+
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
 
     - Development of signal processing laboratory assignment based on psychoacoustic masking
