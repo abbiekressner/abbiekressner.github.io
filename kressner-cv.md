@@ -139,7 +139,7 @@ Speaker identification exercise with Tobias?
 ### Journal publications
 * A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, under review.
 
-* A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, in press.
+* A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, 139(2):800-810, February 2016. [[paper](http://dx.doi.org/10.1121/1.4941567)]
 
 * A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, 137(4):2025-2035, April 2015. [[paper](http://dx.doi.org/10.1121/1.4916271), [code](https://github.com/abbiekressner/graphical-model-for-binary-masks)]
 
