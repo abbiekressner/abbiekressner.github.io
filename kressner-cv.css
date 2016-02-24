@@ -21,6 +21,8 @@ body {
 
 #contact p {
   line-height: 135%;
+  font-size: 14px;
+  font-weight: 900;
 }
 
 img {
