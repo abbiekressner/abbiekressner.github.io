@@ -29,9 +29,23 @@ Technical University of Denmark
 :   B.S. · Biomedical Engineering · Washington University in St. Louis
 
 
+## Research support
+* 2015-2017
+:   Postdoctoral grant from Det Frie Forskningsråd (DFF; Danish Council for Independent Research)
+
+* 2014-2015
+:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
+
+* 2010-2015
+:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+
+* 2010-2013
+:   National Defense Science & Engineering Graduate (NDSEG) Fellowship
+
+
 ## Awards {.htmlhide}
 * 2014
-:   International Hearing Aid Conference (IHCON) Student Scholarship
+:   International Hearing Aid Conference (IHCON) Scholarship
 
 * 2014
 :   Chih Foundation Research Award
@@ -52,28 +66,14 @@ Technical University of Denmark
 :   Society of Women Engineers Scholar
 
 
-## Research support {.htmlhide}
-* 2015-2017
-:   Postdoctoral grant from Det Frie Forskningsråd (DFF; Danish Council for Independent Research)
-
-* 2014-2015
-:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
-
-* 2010-2015
-:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
-
-* 2010-2013
-:   National Defense Science & Engineering Graduate (NDSEG) Fellowship
-
-
-## Experience {.htmlhide}
+## Experience {.htmlhidedescription}
 * Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
 
     -  Investigating cochlear implant speech coding errors
 
 * Visiting Scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
-    - Investigated the influence of binary time-frequency gain manipulation errors in cochlear implant recipients 
+    - Investigated the influence of binary time-frequency gain manipulation errors in cochlear implant recipients
 
 * Consultant · United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
 
@@ -124,8 +124,8 @@ Speaker identification exercise with Tobias?
 
     - Advanced Engineering Mathematics, Calculus, Differential Equations, and Engineering & Scientific Computing
 
-<!--- 
-# Student supervision {.htmlhide}
+
+## Student supervision {.htmlhide}
 * Rasmus Malik Thaarup Hegh and Kristine Juhl · 2016
 
     - Bachelor student project: *Analysis of estimated binary mask errors*  
@@ -133,7 +133,7 @@ Speaker identification exercise with Tobias?
 * Technical Audiology and Experimental Hearing Science · 2016
 
     - Masters student project: *Perceptual evaluation of noise reduction algorithm errors*
--->
+
 
 ## Publications
 ### Journal publications

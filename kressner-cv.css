@@ -67,7 +67,7 @@ h3 {
   display: none;
 }
 
-.htmlhide + ul, .htmlhide + dl, .htmlhide + dl + ul {
+.htmlhide + ul, .htmlhide + dl, .htmlhide + dl + ul, .htmlhidedescription + ul li ul {
   display: none;
 }
 
