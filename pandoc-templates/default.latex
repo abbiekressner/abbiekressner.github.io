@@ -138,6 +138,9 @@ $endif$
 \SetLabelAlign{parright}{\parbox[t]{\labelwidth}{\raggedleft#1}}
 \setlist[description]{leftmargin=2.25cm,style=sameline,font=\normalfont} % ,align=parright
 
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}} % hack fix for new pandoc behavior
+
 \begin{document}
 $if(title)$
 \maketitle

@@ -93,6 +93,9 @@ Technical University of Denmark
 
 
 ## Professional activities {.htmlhide}
+* 2016-present
+:   Reviewer for Journal of the Acoustical Society of America Express Letters
+
 * 2014-present
 :   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
 
@@ -126,7 +129,7 @@ Speaker identification exercise with Tobias?
 
 
 ## Student supervision {.htmlhide}
-* Rasmus Malik Thaarup Hegh and Kristine Juhl · 2016
+* Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
 
     - Bachelor student project: *Analysis of estimated binary mask errors*  
 
@@ -137,7 +140,7 @@ Speaker identification exercise with Tobias?
 
 ## Publications
 ### Journal publications
-* A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, under review.
+* A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, accepted.
 
 * A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, 139(2):800-810, February 2016. [[paper](http://dx.doi.org/10.1121/1.4941567)]
 
@@ -170,6 +173,6 @@ Speaker identification exercise with Tobias?
 * M.J. Jensen, M.P. Linkenkaer, and A.A. Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, CA, August 2008.
 
 ### Other reports
-* A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015. 
+* A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, GA, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
 
-* A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, GA, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011auditory.pdf)]
+* A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, GA, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
