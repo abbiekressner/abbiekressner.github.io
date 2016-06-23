@@ -149,7 +149,7 @@ Speaker identification exercise with Tobias?
 * A.A. Kressner, D.V. Anderson, and C.J. Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://dx.doi.org/10.1109/TASL.2012.2217132), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
 ### Conference publications
-* T. Bentsen, T. May, A.A. Kressner, and T. Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016, submitted.
+* T. Bentsen, T. May, A.A. Kressner, and T. Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016.
 
 * A.A. Kressner and C.J. Rozell. Speech understanding in noise provided by a simulated cochlear implant processor based on matching pursuit. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, New York, October 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013speech.pdf)]
 
@@ -162,7 +162,7 @@ Speaker identification exercise with Tobias?
 * A. Charles, A.A. Kressner, and C.J. Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Conference abstracts
-* A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Speech coding errors in cochlear implants and their impact on speech intelligibility in noise. In IHCON 2016 International Hearing Aid Research Conference, Lake Tahoe, California, August 2016, submitted.
+* A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Speech coding errors in cochlear implants and their impact on speech intelligibility in noise. In IHCON 2016 International Hearing Aid Research Conference, Lake Tahoe, California, August 2016.
 
 * A.A. Kressner and C.J. Rozell. The influence of structure in binary mask estimation error on speech intelligibility. In IHCON 2014 International Hearing Aid Research Conference, Lake Tahoe, California, August 2014.
 
