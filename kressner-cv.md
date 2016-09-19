@@ -94,6 +94,9 @@ Technical University of Denmark
 
 ## Professional activities {.htmlhide}
 * 2016-present
+:   Reviewer for Journal of the Acoustical Society of America
+
+* 2016-present
 :   Reviewer for Journal of the Acoustical Society of America Express Letters
 
 * 2014-present
