@@ -143,6 +143,12 @@ Speaker identification exercise with Tobias?
 
 ## Publications
 ### Journal publications
+<!--- * A.A. Kressner and T. Dau. The role of temporal modulations in predicting the speech intelligibility of binary masked speech. Journal of the Acoustical Society of America, in preparation. -->
+
+<!--- * A. Westermann, A.A. Kressner, and J.M. Buchholz. The impact of reverberation on cochlear implant speech intelligibility in more realistic environments. Journal of the Acoustical Society of America, in preparation. -->
+
+<!--- * T. Bentsen, T. May, A.A. Kressner, and T. Dau. The role of spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, in preparation. -->
+
 * A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, 139(6):3033-3036, June 2016. [[paper](http://dx.doi.org/10.1121/1.4952439)]
 
 * A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, 139(2):800-810, February 2016. [[paper](http://dx.doi.org/10.1121/1.4941567)]
@@ -152,6 +158,10 @@ Speaker identification exercise with Tobias?
 * A.A. Kressner, D.V. Anderson, and C.J. Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://dx.doi.org/10.1109/TASL.2012.2217132), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
 ### Conference publications
+<!--- * A.A. Kressner, K.Aa. Juhl, and R.M.Th. Høegh. Speech-gap transitions in simulated cochlear implant speech intelligibility. In preparation for the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017. -->
+
+<!--- * R.M.Th. Høegh, K.Aa. Juhl, T. May, and A.A. Kressner. Analyzing spectro-temporal structure in binary masks using empirically determined probability maps. In preparation for the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017. -->
+
 * T. Bentsen, T. May, A.A. Kressner, and T. Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016. [[paper](http://cv.abbiekressner.com/papers/bentsen2016comparing.pdf)]
 
 * A.A. Kressner and C.J. Rozell. Speech understanding in noise provided by a simulated cochlear implant processor based on matching pursuit. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, New York, October 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013speech.pdf)]
