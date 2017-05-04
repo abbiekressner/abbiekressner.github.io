@@ -67,6 +67,9 @@ Technical University of Denmark
 
 
 ## Experience {.htmlhidedescription}
+* Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
+    - Investigated models for cochlear implant speech intelligibility prediction
+
 * Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
 
     -  Investigating cochlear implant speech coding errors
