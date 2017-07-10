@@ -137,16 +137,22 @@ Speaker identification exercise with Tobias?
 ## Student supervision {.htmlhide}
 * Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
 
-    - Bachelor student project: *Analysis of estimated binary mask errors*  
+    - Bachelor project: *Analysis of estimated binary mask errors*  
 
 * Technical Audiology and Experimental Hearing Science · 2016
 
     - Masters student project: *Perceptual evaluation of noise reduction algorithm errors*
 
+* Thomas Bentsen · 2015-2017
+
+    - PhD project: *Computational speech segregation inspired by principles of auditory processing*
+
 
 ## Publications
 ### Journal publications
-* Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on cochlear implant speech intelligibility in more realistic environments, in preparation.
+<!-- * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, in preparation. -->
+
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The impact of exploiting spectro-temporal context in computational speech segregation, submitted.
 
 * Abigail Anne Kressner, Tobias May, and Christopher John Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, 139(6):3033-3036, June 2016. [[paper](http://dx.doi.org/10.1121/1.4952439)]
 
@@ -157,7 +163,7 @@ Speaker identification exercise with Tobias?
 * Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://dx.doi.org/10.1109/TASL.2012.2217132), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
 ### Conference publications
-* Abigail Anne Kressner, Tobias May, Rasmus Malik Thaarup Høegh, Kristine Aavild Juhl, Thomas Bentsen, and Torsten Dau. Investigating the effects of noise-estimation errors in simulated cochlear implant speech intelligibility. In International Symposium on Auditory and Audiological Research (ISAAR) 2017, Nyborg, Denmark, August 2017, submitted.
+* Abigail Anne Kressner, Tobias May, Rasmus Malik Thaarup Høegh, Kristine Aavild Juhl, Thomas Bentsen, and Torsten Dau. Investigating the effects of noise-estimation errors in simulated cochlear implant speech intelligibility. In International Symposium on Auditory and Audiological Research (ISAAR) 2017, Nyborg, Denmark, August 2017.
 
 * Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016. [[paper](http://cv.abbiekressner.com/papers/bentsen2016comparing.pdf)]
 
@@ -172,7 +178,7 @@ Speaker identification exercise with Tobias?
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Conference abstracts
-* Abigail Anne Kressner, Stefan J. Mauger, Adam A. Hersbach, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility. In 2017 Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2017, submitted.
+* Abigail Anne Kressner, Stefan J. Mauger, Adam A. Hersbach, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility. In 2017 Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2017.
 
 * Abigail Anne Kressner, Adam Westermann, Jörg Matthias Buchholz, and Christopher John Rozell. Speech coding errors in cochlear implants and their impact on speech intelligibility in noise. In 2016 International Hearing Aid Research Conference (IHCON), Lake Tahoe, California, August 2016.
 
