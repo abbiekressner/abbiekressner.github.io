@@ -96,6 +96,9 @@ Technical University of Denmark
 
 
 ## Professional activities {.htmlhide}
+* 2017-present
+:   Reviewer for Speech Communication
+
 * 2016-present
 :   Reviewer for Journal of the Acoustical Society of America
 
