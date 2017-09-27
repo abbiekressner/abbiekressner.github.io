@@ -96,6 +96,9 @@ Technical University of Denmark
 
 
 ## Professional activities {.htmlhide}
+* 2017
+:   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
+
 * 2017-present
 :   Reviewer for Speech Communication
 
@@ -153,9 +156,15 @@ Speaker identification exercise with Tobias?
 
 ## Publications
 ### Journal publications
+<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, in preparation. -->
+
+<!-- * Abigail Anne Kressner, Tobias May. Relative impact of noise reduction gain errors occurring within speech segments, gaps, and transitions in simulated cochlear implant speech intelligibility, in preparation. -->
+
 <!-- * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, in preparation. -->
 
-* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The impact of exploiting spectro-temporal context in computational speech segregation, submitted.
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, in review.
+
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The impact of exploiting spectro-temporal context in computational speech segregation, in review.
 
 * Abigail Anne Kressner, Tobias May, and Christopher John Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, 139(6):3033-3036, June 2016. [[paper](http://dx.doi.org/10.1121/1.4952439)]
 
