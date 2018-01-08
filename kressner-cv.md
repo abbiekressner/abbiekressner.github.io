@@ -173,7 +173,7 @@ Lecture in Bastian's course
 
 * Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, in review.
 
-* Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation, in press.
+* Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, in press.
 
 * Abigail Anne Kressner, Tobias May, and Christopher John Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, 139(6):3033-3036, June 2016. [[paper](http://dx.doi.org/10.1121/1.4952439)]
 
