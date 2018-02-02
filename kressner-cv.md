@@ -209,6 +209,8 @@ Lecture in Bastian's course
 
 * Abigail Anne Kressner, Adam Westermann, Jörg Matthias Buchholz, and Christopher John Rozell. Speech coding errors in cochlear implants and their impact on speech intelligibility in noise. In 2016 International Hearing Aid Research Conference (IHCON), Lake Tahoe, California, August 2016.
 
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The effect of spectro-temporal context on computational speech segregation. In 2015 Audiological Research Cores in Europe (ARCHES), Groningen, Netherlands, November 2015.
+
 * Abigail Anne Kressner and Christopher John Rozell. The influence of structure in binary mask estimation error on speech intelligibility. In 2014 International Hearing Aid Research Conference (IHCON), Lake Tahoe, California, August 2014.
 
 * Abigail Anne Kressner and Christopher John Rozell. Speech separation using Matching Pursuit for time-frequency masking. In Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop, Lausanne, Switzerland, July 2013.
