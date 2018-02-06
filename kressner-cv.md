@@ -123,11 +123,12 @@ Technical University of Denmark
 
 ## Teaching activities {.htmlhide}
 <!---
-Signal processing exercises in Torsten's course?
+Signal processing exercises in Torsten's course
 Speaker identification exercise with Tobias?
 Lecture in Bastian's course
+Signal processing lab in Torsten's course
+Basilar membrane models lab in Torsten's course
 -->
-
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
 
     - Development of signal processing laboratory assignment based on psychoacoustic masking
@@ -143,8 +144,13 @@ Lecture in Bastian's course
 
 ## Student supervision {.htmlhide}
 <!-- TODO * Rasmus Bendsen -->
+* Rasmus Bendsen · 2018
 
-<!-- TODO * Konstantinos Gkanos -->
+    - MSc thesis project: *Spatial perception in reverberant environments with cochlear implant recipients*
+
+* Konstantinos Gkanos  · 2018
+
+    - MSc thesis project: *Compression in cochlear implants*
 
 * Rasmus Malik Thaarup Høegh · 2017
 
@@ -158,24 +164,24 @@ Lecture in Bastian's course
 
     - MSc-level course project: *Perceptual evaluation of noise reduction algorithm errors*
 
-* Thomas Bentsen · 2015-2017
+* Thomas Bentsen · 2015-2018
 
     - PhD thesis project: *Computational speech segregation inspired by principles of auditory processing*
 
 
 ## Publications
 ### Journal publications
-<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, in preparation. -->
+<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
-<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, in preparation. -->
+<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
-<!-- * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. Dynamic channel selection based on estimated signal-to-noise ratios in cochlear implant speech coding, in preparation. -->
+<!-- * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. Dynamic channel selection based on estimated signal-to-noise ratios in cochlear implant speech coding, PLOS ONE, in preparation. -->
 
-<!-- * Abigail Anne Kressner and Tobias May. Relative impact of noise reduction gain errors occurring within speech segments, gaps, and transitions in simulated cochlear implant speech intelligibility, in preparation. -->
+<!-- * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Hearing Research, in preparation. -->
 
-<!-- * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, in preparation. -->
+* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in review.
 
-* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, in review.
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, in review.
 
 * Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, 143(1):248-259. [[paper](https://doi.org/10.1121/1.5020273)]
 
