@@ -143,7 +143,6 @@ Basilar membrane models lab in Torsten's course
 
 
 ## Student supervision {.htmlhide}
-<!-- TODO * Rasmus Bendsen -->
 * Rasmus Bendsen · 2018
 
     - MSc thesis project: *Spatial perception in reverberant environments with cochlear implant recipients*
