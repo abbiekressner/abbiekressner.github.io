@@ -176,7 +176,7 @@ Basilar membrane models lab in Torsten's course
 
 <!-- * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. Dynamic channel selection based on estimated signal-to-noise ratios in cochlear implant speech coding, PLOS ONE, in preparation. -->
 
-<!-- * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Hearing Research, in preparation. -->
+* Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Journal of the Acoustical Society of America, in review.
 
 * Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in review.
 
