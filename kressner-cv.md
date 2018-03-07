@@ -122,13 +122,22 @@ Technical University of Denmark
 
 
 ## Teaching activities {.htmlhide}
-<!---
-Signal processing exercises in Torsten's course
-Speaker identification exercise with Tobias?
-Lecture in Bastian's course
-Signal processing lab in Torsten's course
-Basilar membrane models lab in Torsten's course
--->
+* Guest lecturer · Technical University of Denmark · Spring 2018
+
+    - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
+
+* Teacher's assistant · Technical University of Denmark · Spring 2018
+
+    - Laboratory exercise on basilar membrane models in Auditory Signal Processing and Perception (Course 31236)
+
+* Guest lecturer · Technical University of Denmark · Fall 2017
+
+    - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
+
+* Teacher's assistant · Technical University of Denmark · Spring 2016
+
+    - Laboratory exercise on signal processing in Auditory Signal Processing and Perception (Course 31236)
+
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
 
     - Development of signal processing laboratory assignment based on psychoacoustic masking
@@ -174,7 +183,7 @@ Basilar membrane models lab in Torsten's course
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
-<!-- * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. Dynamic channel selection based on estimated signal-to-noise ratios in cochlear implant speech coding, PLOS ONE, in preparation. -->
+<!-- * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. Channel selection based on estimated signal-to-noise ratios in cochlear implant speech coding, PLOS ONE, in preparation. -->
 
 * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Journal of the Acoustical Society of America, in review.
 
