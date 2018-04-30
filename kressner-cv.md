@@ -156,10 +156,6 @@ Technical University of Denmark
 
     - MSc thesis project: *Spatial perception in reverberant environments with cochlear implant recipients*
 
-* Konstantinos Gkanos  · 2018
-
-    - MSc thesis project: *Compression in cochlear implants*
-
 * Rasmus Malik Thaarup Høegh · 2017
 
     - MSc-level special course: *Neural networks for improved hearing loss compensation*
@@ -179,6 +175,10 @@ Technical University of Denmark
 
 ## Publications
 ### Journal publications
+<!-- * Rasmus Bendsen, Abigail Anne Kressner, and Torsten Dau. Effects of cochlear implant compression on spatial perception in a reverberant environment, in preparation. -->
+
+<!-- * Abigail Anne Kressner and Torsten Dau. The influence of compression on the preservation of interaural level differences in bilateral cochlear implants, in preparation. -->
+
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
