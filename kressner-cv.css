@@ -10,7 +10,13 @@ body {
 #container {
     margin: auto;
     width: 7in;
-    padding: .5in;
+    padding-bottom: .5in;
+}
+
+#header {
+    margin: auto;
+    width: 7in;
+    padding-top: .5in;
 }
 
 #contact {

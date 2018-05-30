@@ -1,6 +1,7 @@
-# Abbie Kressner
-<!--- Leave this line blank -->
-<!--- Leave this line blank -->
+---
+title: Abbie Kressner
+...
+  
 Abigail Anne Kressner  
 Postdoctoral Researcher  
 Hearing Systems Group  
@@ -189,7 +190,7 @@ Technical University of Denmark
 
 * Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in review.
 
-* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, in press.
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, 13(5):e0196924. [[paper](https://doi.org/10.1371/journal.pone.0196924)]
 
 * Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, 143(1):248-259, January 2018. [[paper](https://doi.org/10.1121/1.5020273)]
 
