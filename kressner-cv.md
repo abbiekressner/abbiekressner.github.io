@@ -98,6 +98,9 @@ Technical University of Denmark
 
 
 ## Professional activities {.htmlhide}
+* 2018-present
+:   Reviewer for Trends in Hearing
+
 * 2017
 :   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
 
