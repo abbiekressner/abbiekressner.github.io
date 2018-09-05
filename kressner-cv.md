@@ -1,11 +1,13 @@
-# Abbie Kressner
+---
+title: Abbie Kressner
+...
 <!--- Leave this line blank -->
 <!--- Leave this line blank -->
-Abigail Anne Kressner  
-Postdoctoral Researcher  
-Hearing Systems Group  
-Technical University of Denmark  
-[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)  
+Abigail Anne Kressner
+Postdoctoral Researcher
+Hearing Systems Group
+Technical University of Denmark
+[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)
 [http://cv.abbiekressner.com](http://cv.abbiekressner.com)
 
 
@@ -13,14 +15,14 @@ Technical University of Denmark
 * 2011-2015
 :   Ph.D. · Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: Structure in time-frequency binary masking  
->   Advisor: Dr. Christopher J. Rozell
+>   Thesis: Structure in time-frequency binary masking
+>   Advisor: Dr. Christopher John Rozell
 
 * 2009-2011
 :   M.S. · Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: Auditory models for evaluating algorithms  
->   Advisor: Dr. Christopher J. Rozell
+>   Thesis: Auditory models for evaluating algorithms
+>   Advisor: Dr. Christopher John Rozell
 
 * 2008
 :   Audiology · Vanderbilt University
@@ -67,6 +69,9 @@ Technical University of Denmark
 
 
 ## Experience {.htmlhidedescription}
+* Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
+    - Investigated models for cochlear implant speech intelligibility prediction
+
 * Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
 
     -  Investigating cochlear implant speech coding errors
@@ -93,6 +98,15 @@ Technical University of Denmark
 
 
 ## Professional activities {.htmlhide}
+* 2018-present
+:   Reviewer for Trends in Hearing
+
+* 2017
+:   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
+
+* 2017-present
+:   Reviewer for Speech Communication
+
 * 2016-present
 :   Reviewer for Journal of the Acoustical Society of America
 
@@ -113,10 +127,21 @@ Technical University of Denmark
 
 
 ## Teaching activities {.htmlhide}
-<!---
-Signal processing exercises in Torsten's course?
-Speaker identification exercise with Tobias?
--->
+* Guest lecturer · Technical University of Denmark · Spring 2018
+
+    - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
+
+* Teacher's assistant · Technical University of Denmark · Spring 2018
+
+    - Laboratory exercise on basilar membrane models in Auditory Signal Processing and Perception (Course 31236)
+
+* Guest lecturer · Technical University of Denmark · Fall 2017
+
+    - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
+
+* Teacher's assistant · Technical University of Denmark · Spring 2016
+
+    - Laboratory exercise on signal processing in Auditory Signal Processing and Perception (Course 31236)
 
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
 
@@ -132,64 +157,92 @@ Speaker identification exercise with Tobias?
 
 
 ## Student supervision {.htmlhide}
+* Rasmus Bendsen · 2018
+
+    - MSc thesis project: *Spatial perception in reverberant environments with cochlear implant recipients*
+
+* Rasmus Malik Thaarup Høegh · 2017
+
+    - MSc-level special course: *Neural networks for improved hearing loss compensation*
+
 * Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
 
-    - Bachelor student project: *Analysis of estimated binary mask errors*  
+    - BSc thesis project: *Analysis of estimated binary mask errors*
 
 * Technical Audiology and Experimental Hearing Science · 2016
 
-    - Masters student project: *Perceptual evaluation of noise reduction algorithm errors*
+    - MSc-level course project: *Perceptual evaluation of noise reduction algorithm errors*
+
+* Thomas Bentsen · 2015-2018
+
+    - PhD thesis project: *Computational speech segregation inspired by principles of auditory processing*
 
 
 ## Publications
 ### Journal publications
-<!--- * A.A. Kressner and T. Dau. The role of temporal modulations in predicting the speech intelligibility of binary masked speech. Journal of the Acoustical Society of America, in preparation. -->
+<!-- * Rasmus Bendsen, Abigail Anne Kressner, and Torsten Dau. Effects of cochlear implant compression on spatial perception in a reverberant environment, in preparation. -->
 
-<!--- * A. Westermann, A.A. Kressner, and J.M. Buchholz. The impact of reverberation on cochlear implant speech intelligibility in more realistic environments. Journal of the Acoustical Society of America, in preparation. -->
+<!-- * Abigail Anne Kressner and Torsten Dau. The influence of compression on the preservation of interaural level differences in bilateral cochlear implants, in preparation. -->
 
-<!--- * T. Bentsen, T. May, A.A. Kressner, and T. Dau. The role of spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, in preparation. -->
+<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
-* A.A. Kressner, T. May, and C.J. Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, 139(6):3033-3036, June 2016. [[paper](http://dx.doi.org/10.1121/1.4952439)]
+<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
-* A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, 139(2):800-810, February 2016. [[paper](http://dx.doi.org/10.1121/1.4941567)]
+* Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, JASA, in review.
 
-* A.A. Kressner and C.J. Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, 137(4):2025-2035, April 2015. [[paper](http://dx.doi.org/10.1121/1.4916271), [code](https://github.com/abbiekressner/graphical-model-for-binary-masks)]
+* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in review.
 
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://dx.doi.org/10.1109/TASL.2012.2217132), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
+* Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Journal of the Acoustical Society of America, 144(2):1113-1122, August 2018. [[paper](https://doi.org/10.1121/1.5051640)]
+
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, 13(5):e0196924. [[paper](https://doi.org/10.1371/journal.pone.0196924)]
+
+* Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, 143(1):248-259, January 2018. [[paper](https://doi.org/10.1121/1.5020273)]
+
+* Abigail Anne Kressner, Tobias May, and Christopher John Rozell. Outcome measures based on classification performance fail to predict the intelligibility of binary-masked speech. Journal of the Acoustical Society of America, 139(6):3033-3036, June 2016. [[paper](http://dx.doi.org/10.1121/1.4952439)]
+
+* Abigail Anne Kressner, Adam Westermann, Jörg Matthias Buchholz, and Christopher John Rozell. Cochlear implant speech intelligibility outcomes with structured and unstructured binary mask errors. Journal of the Acoustical Society of America, 139(2):800-810, February 2016. [[paper](http://dx.doi.org/10.1121/1.4941567)]
+
+* Abigail Anne Kressner and Christopher John Rozell. Structure in time-frequency binary masking errors and its impact on speech intelligibility. Journal of the Acoustical Society of America, 137(4):2025-2035, April 2015. [[paper](http://dx.doi.org/10.1121/1.4916271), [code](https://github.com/abbiekressner/graphical-model-for-binary-masks)]
+
+* Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://dx.doi.org/10.1109/TASL.2012.2217132), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
 ### Conference publications
-<!--- * A.A. Kressner, K.Aa. Juhl, and R.M.Th. Høegh. Speech-gap transitions in simulated cochlear implant speech intelligibility. In preparation for the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017. -->
+* Abigail Anne Kressner, Tobias May, Rasmus Malik Thaarup Høegh, Kristine Aavild Juhl, Thomas Bentsen, and Torsten Dau. Investigating the effects of noise-estimation errors in simulated cochlear implant speech intelligibility. In International Symposium on Auditory and Audiological Research (ISAAR), Nyborg, Denmark, August 2017. [[paper](https://proceedings.isaar.eu/index.php/isaarproc/article/view/2017-36)]
 
-<!--- * R.M.Th. Høegh, K.Aa. Juhl, T. May, and A.A. Kressner. Analyzing spectro-temporal structure in binary masks using empirically determined probability maps. In preparation for the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), October 2017. -->
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016. [[paper](http://cv.abbiekressner.com/papers/bentsen2016comparing.pdf)]
 
-* T. Bentsen, T. May, A.A. Kressner, and T. Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016. [[paper](http://cv.abbiekressner.com/papers/bentsen2016comparing.pdf)]
+* Abigail Anne Kressner and Christopher John Rozell. Speech understanding in noise provided by a simulated cochlear implant processor based on matching pursuit. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, New York, October 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013speech.pdf)]
 
-* A.A. Kressner and C.J. Rozell. Speech understanding in noise provided by a simulated cochlear implant processor based on matching pursuit. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, New York, October 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013speech.pdf)]
+* Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. Causal binary mask estimation for speech enhancement using sparsity constraints. In Proceedings of Meetings on Acoustics (POMA), Montreal, Canada, June 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013causal.pdf)]
 
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Causal binary mask estimation for speech enhancement using sparsity constraints. In Proceedings of Meetings on Acoustics (POMA), Montreal, Canada, June 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013causal.pdf)]
+* Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. A novel binary mask estimator based on sparse approximation. In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Vancouver, Canada, May 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013novel.pdf)]
 
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. A novel binary mask estimator based on sparse approximation. In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Vancouver, Canada, May 2013. [[paper](http://cv.abbiekressner.com/papers/kressner2013novel.pdf)]
+* Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. Robustness of the Hearing Aid Speech Quality Index (HASQI). In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, New York, October 2011. [[paper](http://cv.abbiekressner.com/papers/kressner2011robustness.pdf)]
 
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Robustness of the Hearing Aid Speech Quality Index (HASQI). In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, New York, October 2011. [[paper](http://cv.abbiekressner.com/papers/kressner2011robustness.pdf)]
-
-* A. Charles, A.A. Kressner, and C.J. Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
+* Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Conference abstracts
-* A.A. Kressner, A. Westermann, J.M. Buchholz, and C.J. Rozell. Speech coding errors in cochlear implants and their impact on speech intelligibility in noise. In IHCON 2016 International Hearing Aid Research Conference, Lake Tahoe, California, August 2016.
+* Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Predicting the impact of noise and noise reduction algorithms on speech intelligibility in cochlear implant recipients. In 2017 Audiological Research Cores in Europe (ARCHES), Leuven, Belgium, November 2017.
 
-* A.A. Kressner and C.J. Rozell. The influence of structure in binary mask estimation error on speech intelligibility. In IHCON 2014 International Hearing Aid Research Conference, Lake Tahoe, California, August 2014.
+* Abigail Anne Kressner, Stefan J. Mauger, Adam A. Hersbach, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility. In 2017 Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2017.
 
-* A.A. Kressner and C.J. Rozell. Speech separation using Matching Pursuit for time-frequency masking. In Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop, Lausanne, Switzerland, July 2013.
+* Abigail Anne Kressner, Adam Westermann, Jörg Matthias Buchholz, and Christopher John Rozell. Speech coding errors in cochlear implants and their impact on speech intelligibility in noise. In 2016 International Hearing Aid Research Conference (IHCON), Lake Tahoe, California, August 2016.
 
-* A.A. Kressner, A.S. Charles, and C.J. Rozell. Causal Locally Competitive Algorithm for the sparse decomposition of audio signals. In IEEE Women's Workshop on Communications and Signal Processing, Banff, Canada, July 2012.
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The effect of spectro-temporal context on computational speech segregation. In 2015 Audiological Research Cores in Europe (ARCHES), Groningen, Netherlands, November 2015.
 
-* A.A. Kressner, D.V. Anderson, and C.J. Rozell. Computational auditory models validate the intelligibility benefit of efficient filters. In International Symposium on Auditory and Audiological Research (ISAAR) 2011, Nyborg, Denmark, August 2011.
+* Abigail Anne Kressner and Christopher John Rozell. The influence of structure in binary mask estimation error on speech intelligibility. In 2014 International Hearing Aid Research Conference (IHCON), Lake Tahoe, California, August 2014.
 
-* A.A. Kressner, C.J. Rozell, and D.V. Anderson. Predicting speech quality using a computational auditory model. In IHCON 2010 International Hearing Aid Research Conference, Lake Tahoe, California, August 2010.
+* Abigail Anne Kressner and Christopher John Rozell. Speech separation using Matching Pursuit for time-frequency masking. In Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop, Lausanne, Switzerland, July 2013.
 
-* M.J. Jensen, M.P. Linkenkaer, and A.A. Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, California, August 2008.
+* Abigail Anne Kressner, Adam S. Charles, and Christopher John Rozell. Causal Locally Competitive Algorithm for the sparse decomposition of audio signals. In IEEE Women's Workshop on Communications and Signal Processing, Banff, Canada, July 2012.
+
+* Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. Computational auditory models validate the intelligibility benefit of efficient filters. In International Symposium on Auditory and Audiological Research (ISAAR) 2011, Nyborg, Denmark, August 2011.
+
+* Abigail Anne Kressner, Christopher John Rozell, and David V. Anderson. Predicting speech quality using a computational auditory model. In IHCON 2010 International Hearing Aid Research Conference, Lake Tahoe, California, August 2010.
+
+* Mads J. Jensen, Morten P. Linkenkaer, and Abigail Anne Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, California, August 2008.
 
 ### Other reports
-* A.A. Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, Georgia, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
+* Abigail Anne Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, Georgia, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
 
-* A.A. Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, Georgia, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
+* Abigail Anne Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, Georgia, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
