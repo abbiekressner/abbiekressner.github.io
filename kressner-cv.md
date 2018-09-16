@@ -1,9 +1,6 @@
 ---
-title: Abbie Kressner
+title: Abigail Anne (Abbie) Kressner
 ...
-<!--- Leave this line blank -->
-<!--- Leave this line blank -->
-Abigail Anne Kressner  
 Postdoctoral Researcher  
 Hearing Systems Group  
 Technical University of Denmark  

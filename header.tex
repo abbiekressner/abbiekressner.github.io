@@ -33,5 +33,16 @@
 \fancyhead{} % clear header
 \fancyfoot{} % clear footer
 % \renewcommand{\headrulewidth}{0pt}
-\fancyhead[C]{\textit{Abigail A. Kressner $\cdot$ Curriculum Vitae $\cdot$ \monthname~\the\year}}
+\fancyhead[C]{\textit{Abigail Anne Kressner $\cdot$ Curriculum Vitae $\cdot$ \monthname~\the\year}}
 \fancyfoot[C]{\thepage}
+
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\begin{flushleft}
+  \textbf{\LARGE\@title}
+  \thispagestyle{empty}
+
+  \@author
+\end{flushleft}\egroup
+}
+\makeatother
