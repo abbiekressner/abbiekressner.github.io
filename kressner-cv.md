@@ -3,11 +3,11 @@ title: Abbie Kressner
 ...
 <!--- Leave this line blank -->
 <!--- Leave this line blank -->
-Abigail Anne Kressner
-Postdoctoral Researcher
-Hearing Systems Group
-Technical University of Denmark
-[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)
+Abigail Anne Kressner  
+Postdoctoral Researcher  
+Hearing Systems Group  
+Technical University of Denmark  
+[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)  
 [http://cv.abbiekressner.com](http://cv.abbiekressner.com)
 
 
@@ -15,13 +15,13 @@ Technical University of Denmark
 * 2011-2015
 :   Ph.D. · Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: Structure in time-frequency binary masking
+>   Thesis: Structure in time-frequency binary masking  
 >   Advisor: Dr. Christopher John Rozell
 
 * 2009-2011
 :   M.S. · Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: Auditory models for evaluating algorithms
+>   Thesis: Auditory models for evaluating algorithms  
 >   Advisor: Dr. Christopher John Rozell
 
 * 2008
