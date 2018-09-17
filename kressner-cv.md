@@ -1,11 +1,13 @@
 ---
-title: Abigail Anne (Abbie) Kressner
+title: Abigail Anne Kressner
 ...
-Postdoctoral Researcher  
-Hearing Systems Group  
-Technical University of Denmark  
+Olof Palmes Gade 3, 3. th.  
+2100 Københaven Ø  
+Denmark  
++45 42 44 36 07  
 [aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)  
-[http://cv.abbiekressner.com](http://cv.abbiekressner.com)
+[http://cv.abbiekressner.com](http://cv.abbiekressner.com)  
+<!-- TODO add OrCID, linkedin, researchgate, google scholar -->
 
 
 ## Education
@@ -67,11 +69,12 @@ Technical University of Denmark
 
 ## Experience {.htmlhidedescription}
 * Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
+
     - Investigated models for cochlear implant speech intelligibility prediction
 
 * Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
 
-    -  Investigating cochlear implant speech coding errors
+    -  Investigating speech in noise for cochlear implant recipients, both in the areas of speech intelligibility prediction and psychoacoustic experimentation
 
 * Visiting Scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
@@ -79,9 +82,18 @@ Technical University of Denmark
 
 * Consultant · United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
 
+* Graduate Research Assistant · Sensory Information Processing Lab at the Georgia Institute of Technology · 8/2009 to 5/2015
+
+    - TODO
+
     - Advised in the areas of acoustics and signal processing for new product development
 
-* Research Intern · Widex A/S · Vaerloese, Denmark · 1/2008 to 7/2008
+* Research Assistant · Vanderbilt University ·  Nashville, Tennessee, USA · 1/2009 to 7/2009
+
+    - Developed Graphical User Interface in Matlab for implementing principal component analysis on event-related
+potentials of speech process
+
+* Research Intern · Widex A/S · Værløse, Denmark · 1/2008 to 7/2008
 
     - Investigated the influence of earmold venting on hearing aid feedback to facilitate better vent placement
 
@@ -93,8 +105,19 @@ Technical University of Denmark
 
     - Aided in the design of a field communication system that maintains 3D spatial relationships among users
 
+* National Science Foundation's Research Experiences for Undergraduates (REU) · Summer Program in Computational Biology at the University of Maryland Baltimore County · Baltimore, Maryland, USA · 6/2005 to 8/2005
+
+    - Developed computational model of autoassociative neural network
+
+* Research Assistant · Laboratory of Sensory Neuroscience and Neuroengineering at Washington University in St. Louis · St Louis, Missouri, USA · 2/2005 to 5/2007
+
+    - Investigated the influence of auditory cues on self-orientation
+
 
 ## Professional activities {.htmlhide}
+<!-- * 2018-present
+:   Organizing committee for the International Symposium on Auditory and Audiological Research -->
+
 * 2018-present
 :   Reviewer for Trends in Hearing
 
@@ -135,6 +158,10 @@ Technical University of Denmark
 * Guest lecturer · Technical University of Denmark · Fall 2017
 
     - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
+
+* TODO UDTU · Technical University of Denmark · Spring 2016
+
+    - TODO
 
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
