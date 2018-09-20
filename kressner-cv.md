@@ -7,7 +7,8 @@ Denmark
 +45 42 44 36 07  
 [aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)  
 [http://cv.abbiekressner.com](http://cv.abbiekressner.com)  
-<!-- TODO add OrCID, linkedin, researchgate, google scholar -->
+[OrCID](https://orcid.org/0000-0003-4274-3948
+) · [LinkedIn](https://www.linkedin.com/in/abbiekressner/) · [Research Gate](https://www.researchgate.net/profile/Abigail_Kressner) · [Google Scholar](https://scholar.google.dk/citations?hl=en&user=cx5G69YAAAAJ)
 
 
 ## Education
@@ -82,11 +83,11 @@ Denmark
 
 * Consultant · United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
 
+    - Advised in the areas of acoustics and signal processing for new product development
+
 * Graduate Research Assistant · Sensory Information Processing Lab at the Georgia Institute of Technology · 8/2009 to 5/2015
 
     - TODO
-
-    - Advised in the areas of acoustics and signal processing for new product development
 
 * Research Assistant · Vanderbilt University ·  Nashville, Tennessee, USA · 1/2009 to 7/2009
 
@@ -159,9 +160,9 @@ potentials of speech process
 
     - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
 
-* TODO UDTU · Technical University of Denmark · Spring 2016
+* Education in University Teaching Module 1 (UDTU) · Technical University of Denmark · Spring 2016
 
-    - TODO
+    - Education in university teaching with a focus on how to educate engineers
 
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
@@ -181,7 +182,7 @@ potentials of speech process
 
 
 ## Outreach
-* Speaker · TODO · TODO
+* Speaker · Virum Gymnasium Visit · 11/2017 
 
     - TODO
 
