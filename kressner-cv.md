@@ -68,7 +68,7 @@ Denmark
 :   Society of Women Engineers Scholar
 
 
-## Experience {.htmlhidedescription}
+## Research and work experience {.htmlhidedescription}
 * Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
 
     - Investigated models for cochlear implant speech intelligibility prediction
@@ -85,14 +85,14 @@ Denmark
 
     - Advised in the areas of acoustics and signal processing for new product development
 
-* Graduate Research Assistant · Sensory Information Processing Lab at the Georgia Institute of Technology · 8/2009 to 5/2015
+* Graduate Research Assistant · Georgia Institute of Technology · 8/2009 to 5/2015
 
-    - TODO
+    - Evaluated the generalizability of the Hearing Aid Speech Quality Index (HASQI)
+    - Investigated the effect of statistical structure in the gains applied during noise reduction by conducting listener experiments with both normal-hearing listeners and cochlear implant recipients
 
 * Research Assistant · Vanderbilt University ·  Nashville, Tennessee, USA · 1/2009 to 7/2009
 
-    - Developed Graphical User Interface in Matlab for implementing principal component analysis on event-related
-potentials of speech process
+    - Developed Graphical User Interface in Matlab for implementing principal component analysis on event-related potentials of speech process
 
 * Research Intern · Widex A/S · Værløse, Denmark · 1/2008 to 7/2008
 
@@ -106,48 +106,16 @@ potentials of speech process
 
     - Aided in the design of a field communication system that maintains 3D spatial relationships among users
 
-* National Science Foundation's Research Experiences for Undergraduates (REU) · Summer Program in Computational Biology at the University of Maryland Baltimore County · Baltimore, Maryland, USA · 6/2005 to 8/2005
+* National Science Foundation's Research Experiences for Undergraduates · Baltimore, Maryland, USA · 6/2005 to 8/2005
 
-    - Developed computational model of autoassociative neural network
+    - Developed computational model of autoassociative neural network as part of the University of Maryland Baltimore County's Summer Program in Computational Biology
 
-* Research Assistant · Laboratory of Sensory Neuroscience and Neuroengineering at Washington University in St. Louis · St Louis, Missouri, USA · 2/2005 to 5/2007
+* Research Assistant · Washington University in St. Louis · St Louis, Missouri, USA · 2/2005 to 5/2007
 
     - Investigated the influence of auditory cues on self-orientation
 
 
-## Professional activities {.htmlhide}
-<!-- * 2018-present
-:   Organizing committee for the International Symposium on Auditory and Audiological Research -->
-
-* 2018-present
-:   Reviewer for Trends in Hearing
-
-* 2017
-:   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
-
-* 2017-present
-:   Reviewer for Speech Communication
-
-* 2016-present
-:   Reviewer for Journal of the Acoustical Society of America
-
-* 2016-present
-:   Reviewer for Journal of the Acoustical Society of America Express Letters
-
-* 2014-present
-:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
-
-* 2013-2014
-:   Member of American Auditory Society
-
-* 2010-2014
-:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
-
-* 2010-2012
-:   Board member of Revive Atlanta Initiative, Inc.
-
-
-## Teaching activities {.htmlhide}
+## Teaching experience {.htmlhide}
 * Guest lecturer · Technical University of Denmark · Spring 2018
 
     - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
@@ -166,6 +134,11 @@ potentials of speech process
 
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
+    - Laboratory exercise on speaker identification in Auditory Signal Processing and Perception (Course 31236)
+
+
+* Teacher's assistant · Technical University of Denmark · Spring 2016
+
     - Laboratory exercise on signal processing in Auditory Signal Processing and Perception (Course 31236)
 
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
@@ -181,20 +154,14 @@ potentials of speech process
     - Advanced Engineering Mathematics, Calculus, Differential Equations, and Engineering & Scientific Computing
 
 
-## Outreach
-* Speaker · Virum Gymnasium Visit · 11/2017 
-
-    - TODO
-
-* Volunteer · TODO · TODO
-
-    - TODO
-
-
 ## Student supervision {.htmlhide}
+* Wiebke Lamping · 2018-present
+
+    - PhD thesis: *Improving music perception and voice pitch in cochlear implant users*
+
 * Rasmus Bendsen · 2018
 
-    - MSc thesis project: *Spatial perception in reverberant environments with cochlear implant recipients*
+    - MSc thesis: *Spatial perception in reverberant environments with cochlear implant recipients*
 
 * Rasmus Malik Thaarup Høegh · 2017
 
@@ -202,15 +169,23 @@ potentials of speech process
 
 * Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
 
-    - BSc thesis project: *Analysis of estimated binary mask errors*
+    - BSc thesis: *Analysis of estimated binary mask errors*
 
 * Technical Audiology and Experimental Hearing Science · 2016
 
-    - MSc-level course project: *Perceptual evaluation of noise reduction algorithm errors*
+    - MSc-level course: *Perceptual evaluation of noise reduction algorithm errors*
 
 * Thomas Bentsen · 2015-2018
 
-    - PhD thesis project: *Computational speech segregation inspired by principles of auditory processing*
+    - PhD thesis: *Computational speech segregation inspired by principles of auditory processing*
+
+
+## Skills
+* Languages
+:   English (mother tongue), Danish (basic fluency, CEFR B2)
+
+* Programming
+:   Matlab, Python, R, C++
 
 
 ## Publications
@@ -281,3 +256,50 @@ potentials of speech process
 * Abigail Anne Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, Georgia, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
 
 * Abigail Anne Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, Georgia, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
+
+
+## Performance indices
+* H-index: 5 [[Google Scholar](https://scholar.google.dk/citations?hl=en&user=cx5G69YAAAAJ)], 5 [[Research Gate](https://www.researchgate.net/profile/Abigail_Kressner/scores)]
+
+
+## Professional activities {.htmlhide}
+<!-- * 2018-present
+:   Organizing committee for the International Symposium on Auditory and Audiological Research -->
+
+* 2018-present
+:   Reviewer for Trends in Hearing
+
+* 2017
+:   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
+
+* 2017-present
+:   Reviewer for Speech Communication
+
+* 2016-present
+:   Reviewer for Journal of the Acoustical Society of America
+
+* 2016-present
+:   Reviewer for Journal of the Acoustical Society of America Express Letters
+
+* 2014-present
+:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
+
+* 2013-2014
+:   Member of American Auditory Society
+
+* 2010-2014
+:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
+
+
+## Outreach
+* Volunteer · Technical University of Denmark's Diversity and Gender Equality · 2018-present
+
+    - Aiding DTU's gender equality consultant to initiate a "Women's Camp" with the primary goal of recruiting more women applicants to the university
+
+* Speaker · Virum Gymnasium Visit at the Technical University of Denmark · 11/2017 
+
+    - Spoke at a recruitment event about what it is like to be a researcher at DTU and how I prepared for a career in science
+
+* Board member · Revive Atlanta Initiative, Inc. · 2010-2012
+
+    - Grassroots group which aimed at improving the city of Atlanta by leading efforts to transform underutilized spaces into valuable community assets
