@@ -298,7 +298,7 @@ Denmark
 
 * Speaker · Virum Gymnasium Visit at the Technical University of Denmark · 11/2017 
 
-    - Spoke at a recruitment event about what it is like to be a researcher at DTU and how I prepared for a career in science
+    - Spoke at a recruitment event for the Department of Electrical Engineering about what it is like to be a researcher at DTU and how I prepared for a career in science
 
 * Board member · Revive Atlanta Initiative, Inc. · 2010-2012
 
