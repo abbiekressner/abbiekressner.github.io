@@ -116,6 +116,10 @@ Denmark
 
 
 ## Teaching experience {.htmlhide}
+* DTU Young Researcher Training Programme · Spring 2018 to present
+
+    - Series of workshops focused on paving the way towards excellence in an academic career
+
 * Guest lecturer · Technical University of Denmark · Spring 2018
 
     - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
@@ -166,6 +170,7 @@ Denmark
 * Rasmus Malik Thaarup Høegh · 2017
 
     - MSc-level special course: *Neural networks for improved hearing loss compensation*
+    - Project coordinated in collaboration with Bose Corporation
 
 * Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
 
@@ -178,6 +183,7 @@ Denmark
 * Thomas Bentsen · 2015-2018
 
     - PhD thesis: *Computational speech segregation inspired by principles of auditory processing*
+    - External research stay coordinated in collaboration with Cochlear Ltd.
 
 
 ## Skills
