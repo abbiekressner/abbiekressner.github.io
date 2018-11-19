@@ -115,11 +115,17 @@ Denmark
     - Investigated the influence of auditory cues on self-orientation
 
 
-## Teaching experience {.htmlhide}
-* DTU Young Researcher Training Programme · Spring 2018 to present
+## Teaching education {.htmlhide}
+* Young Researcher Training Programme · Technical University of Denmark · Spring 2018 to present
 
     - Series of workshops focused on paving the way towards excellence in an academic career
 
+* University Teaching Module 1 (UDTU) · Technical University of Denmark · Spring 2016
+
+    - Education in university teaching with a focus on how to educate engineers
+
+
+## Teaching experience {.htmlhide}
 * Guest lecturer · Technical University of Denmark · Spring 2018
 
     - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
@@ -131,10 +137,6 @@ Denmark
 * Guest lecturer · Technical University of Denmark · Fall 2017
 
     - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
-
-* Education in University Teaching Module 1 (UDTU) · Technical University of Denmark · Spring 2016
-
-    - Education in university teaching with a focus on how to educate engineers
 
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
@@ -206,11 +208,11 @@ Denmark
 
 * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, JASA, in review.
 
-* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in review.
+* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, accepted.
 
 * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Journal of the Acoustical Society of America, 144(2):1113-1122, August 2018. [[paper](https://doi.org/10.1121/1.5051640)]
 
-* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, 13(5):e0196924. [[paper](https://doi.org/10.1371/journal.pone.0196924)]
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, 13(5):e0196924, May 2018. [[paper](https://doi.org/10.1371/journal.pone.0196924)]
 
 * Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, 143(1):248-259, January 2018. [[paper](https://doi.org/10.1121/1.5020273)]
 
@@ -300,7 +302,7 @@ Denmark
 ## Outreach
 * Volunteer · Technical University of Denmark's Diversity and Gender Equality · 2018-present
 
-    - Aiding DTU's gender equality consultant to initiate a "Women's Camp" with the primary goal of recruiting more women applicants to the university
+    - Assisting gender equality consultant to initiate a "Women's Camp", which will have the primary goal of recruiting more women applicants to the university
 
 * Speaker · Virum Gymnasium Visit at the Technical University of Denmark · 11/2017 
 
