@@ -188,7 +188,7 @@ Technical University of Denmark
     - External research stay coordinated in collaboration with Cochlear Ltd.
 
 
-## Skills
+## Skills {.htmlhide}
 * Languages
 :   English (mother tongue), Danish (basic fluency, CEFR B2)
 
@@ -266,8 +266,8 @@ Technical University of Denmark
 * Abigail Anne Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, Georgia, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
 
 
-## Performance indices
-* H-index: 5 [[Google Scholar](https://scholar.google.dk/citations?hl=en&user=cx5G69YAAAAJ)], 5 [[Research Gate](https://www.researchgate.net/profile/Abigail_Kressner/scores)]
+<!-- ## Performance indices {.htmlhide}
+* H-index: 6 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=cx5G69YAAAAJ)], 5 [[Research Gate](https://www.researchgate.net/profile/Abigail_Kressner/scores)] -->
 
 
 ## Professional activities {.htmlhide}
@@ -299,7 +299,7 @@ Technical University of Denmark
 :   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
 
 
-## Outreach
+## Outreach {.htmlhide}
 * Volunteer · Technical University of Denmark's Diversity and Gender Equality · 2018-present
 
     - Assisting gender equality consultant to initiate a "Women's Camp", which will have the primary goal of recruiting more women applicants to the university
