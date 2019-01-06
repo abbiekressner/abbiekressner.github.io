@@ -1,11 +1,14 @@
 ---
-title: Abigail Anne (Abbie) Kressner
+title: Abigail Anne Kressner
 ...
 Postdoctoral Researcher  
 Hearing Systems Group  
 Technical University of Denmark  
-[aakress@elektro.dtu.dk](mailto:aakress@elektro.dtu.dk)  
-[http://cv.abbiekressner.com](http://cv.abbiekressner.com)
+
+[aakress@dtu.dk](mailto:aakress@dtu.dk)  
+[http://cv.abbiekressner.com](http://cv.abbiekressner.com)  
+[OrCID](https://orcid.org/0000-0003-4274-3948
+) · [LinkedIn](https://www.linkedin.com/in/abbiekressner/) · [Research Gate](https://www.researchgate.net/profile/Abigail_Kressner) · [Google Scholar](https://scholar.google.dk/citations?hl=en&user=cx5G69YAAAAJ)
 
 
 ## Education
@@ -65,13 +68,14 @@ Technical University of Denmark
 :   Society of Women Engineers Scholar
 
 
-## Experience {.htmlhidedescription}
+## Research and work experience {.htmlhidedescription}
 * Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
+
     - Investigated models for cochlear implant speech intelligibility prediction
 
 * Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
 
-    -  Investigating cochlear implant speech coding errors
+    -  Investigating speech in noise for cochlear implant recipients, both in the areas of speech intelligibility prediction and psychoacoustic experimentation
 
 * Visiting Scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
@@ -81,7 +85,16 @@ Technical University of Denmark
 
     - Advised in the areas of acoustics and signal processing for new product development
 
-* Research Intern · Widex A/S · Vaerloese, Denmark · 1/2008 to 7/2008
+* Graduate Research Assistant · Georgia Institute of Technology · 8/2009 to 5/2015
+
+    - Evaluated the generalizability of the Hearing Aid Speech Quality Index (HASQI)
+    - Investigated the effect of statistical structure in the gains applied during noise reduction by conducting listener experiments with both normal-hearing listeners and cochlear implant recipients
+
+* Research Assistant · Vanderbilt University ·  Nashville, Tennessee, USA · 1/2009 to 7/2009
+
+    - Developed Graphical User Interface in Matlab for implementing principal component analysis on event-related potentials of speech process
+
+* Research Intern · Widex A/S · Værløse, Denmark · 1/2008 to 7/2008
 
     - Investigated the influence of earmold venting on hearing aid feedback to facilitate better vent placement
 
@@ -93,37 +106,26 @@ Technical University of Denmark
 
     - Aided in the design of a field communication system that maintains 3D spatial relationships among users
 
+* National Science Foundation's Research Experiences for Undergraduates · Baltimore, Maryland, USA · 6/2005 to 8/2005
 
-## Professional activities {.htmlhide}
-* 2018-present
-:   Reviewer for Trends in Hearing
+    - Developed computational model of autoassociative neural network as part of the University of Maryland Baltimore County's Summer Program in Computational Biology
 
-* 2017
-:   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
+* Research Assistant · Washington University in St. Louis · St Louis, Missouri, USA · 2/2005 to 5/2007
 
-* 2017-present
-:   Reviewer for Speech Communication
-
-* 2016-present
-:   Reviewer for Journal of the Acoustical Society of America
-
-* 2016-present
-:   Reviewer for Journal of the Acoustical Society of America Express Letters
-
-* 2014-present
-:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
-
-* 2013-2014
-:   Member of American Auditory Society
-
-* 2010-2014
-:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
-
-* 2010-2012
-:   Board member of Revive Atlanta Initiative, Inc.
+    - Investigated the influence of auditory cues on self-orientation
 
 
-## Teaching activities {.htmlhide}
+## Teaching education {.htmlhide}
+* Young Researcher Training Programme · Technical University of Denmark · Spring 2018 to present
+
+    - Series of workshops focused on paving the way towards excellence in an academic career
+
+* University Teaching Module 1 (UDTU) · Technical University of Denmark · Spring 2016
+
+    - Education in university teaching with a focus on how to educate engineers
+
+
+## Teaching experience {.htmlhide}
 * Guest lecturer · Technical University of Denmark · Spring 2018
 
     - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
@@ -135,6 +137,11 @@ Technical University of Denmark
 * Guest lecturer · Technical University of Denmark · Fall 2017
 
     - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
+
+* Teacher's assistant · Technical University of Denmark · Spring 2016
+
+    - Laboratory exercise on speaker identification in Auditory Signal Processing and Perception (Course 31236)
+
 
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
@@ -154,25 +161,39 @@ Technical University of Denmark
 
 
 ## Student supervision {.htmlhide}
+* Wiebke Lamping · 2018-present
+
+    - PhD thesis: *Improving music perception and voice pitch in cochlear implant users*
+
 * Rasmus Bendsen · 2018
 
-    - MSc thesis project: *Spatial perception in reverberant environments with cochlear implant recipients*
+    - MSc thesis: *Spatial perception in reverberant environments with cochlear implant recipients*
 
 * Rasmus Malik Thaarup Høegh · 2017
 
     - MSc-level special course: *Neural networks for improved hearing loss compensation*
+    - Project coordinated in collaboration with Bose Corporation
 
 * Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
 
-    - BSc thesis project: *Analysis of estimated binary mask errors*
+    - BSc thesis: *Analysis of estimated binary mask errors*
 
 * Technical Audiology and Experimental Hearing Science · 2016
 
-    - MSc-level course project: *Perceptual evaluation of noise reduction algorithm errors*
+    - MSc-level course: *Perceptual evaluation of noise reduction algorithm errors*
 
 * Thomas Bentsen · 2015-2018
 
-    - PhD thesis project: *Computational speech segregation inspired by principles of auditory processing*
+    - PhD thesis: *Computational speech segregation inspired by principles of auditory processing*
+    - External research stay coordinated in collaboration with Cochlear Ltd.
+
+
+## Skills
+* Languages
+:   English (mother tongue), Danish (basic fluency, CEFR B2)
+
+* Programming
+:   Matlab, Python, R, C++
 
 
 ## Publications
@@ -187,11 +208,11 @@ Technical University of Denmark
 
 * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, JASA, in review.
 
-* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in review.
+* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, accepted.
 
 * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Journal of the Acoustical Society of America, 144(2):1113-1122, August 2018. [[paper](https://doi.org/10.1121/1.5051640)]
 
-* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, 13(5):e0196924. [[paper](https://doi.org/10.1371/journal.pone.0196924)]
+* Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. The benefit of combining a deep neural network architecture with ideal ratio mask estimation in computational speech segregation to improve speech intelligibility, PLOS ONE, 13(5):e0196924, May 2018. [[paper](https://doi.org/10.1371/journal.pone.0196924)]
 
 * Thomas Bentsen, Abigail Anne Kressner, Torsten Dau, and Tobias May. The impact of exploiting spectro-temporal context in computational speech segregation. Journal of the Acoustical Society of America, 143(1):248-259, January 2018. [[paper](https://doi.org/10.1121/1.5020273)]
 
@@ -243,3 +264,50 @@ Technical University of Denmark
 * Abigail Anne Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, Georgia, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
 
 * Abigail Anne Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, Georgia, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
+
+
+## Performance indices
+* H-index: 5 [[Google Scholar](https://scholar.google.dk/citations?hl=en&user=cx5G69YAAAAJ)], 5 [[Research Gate](https://www.researchgate.net/profile/Abigail_Kressner/scores)]
+
+
+## Professional activities {.htmlhide}
+* 2018-present
+:   Organizing committee for the International Symposium on Auditory and Audiological Research
+
+* 2018-present
+:   Reviewer for Trends in Hearing
+
+* 2017
+:   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
+
+* 2017-present
+:   Reviewer for Speech Communication
+
+* 2016-present
+:   Reviewer for Journal of the Acoustical Society of America
+
+* 2016-present
+:   Reviewer for Journal of the Acoustical Society of America Express Letters
+
+* 2014-present
+:   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
+
+* 2013-2014
+:   Member of American Auditory Society
+
+* 2010-2014
+:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
+
+
+## Outreach
+* Volunteer · Technical University of Denmark's Diversity and Gender Equality · 2018-present
+
+    - Assisting gender equality consultant to initiate a "Women's Camp", which will have the primary goal of recruiting more women applicants to the university
+
+* Speaker · Virum Gymnasium Visit at the Technical University of Denmark · 11/2017
+
+    - Spoke at a recruitment event for the Department of Electrical Engineering about what it is like to be a researcher at DTU and how I prepared for a career in science
+
+* Board member · Revive Atlanta Initiative, Inc. · 2010-2012
+
+    - Grassroots group which aimed at improving the city of Atlanta by leading efforts to transform underutilized spaces into valuable community assets

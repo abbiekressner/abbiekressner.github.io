@@ -1,13 +1,13 @@
 SRC = kressner-cv.md
 
-PDFS=$(SRC:.md=.pdf)
+PDF=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
 LATEX_TEMPLATE=./pandoc-templates/default.latex
 HTML_TEMPLATE=./pandoc-templates/default.html
 
-all:    $(PDFS) $(HTML)
+all:    $(PDF) $(HTML)
 
-pdf:   $(PDFS)
+pdf:   $(PDF)
 html:  $(HTML)
 
 %.html: %.md $(HTML_TEMPLATE)
