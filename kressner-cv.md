@@ -1,14 +1,13 @@
----
-title: Abigail Anne Kressner
-...
+Abigail Anne Kressner
+=============================
+
+Nickname: Abbie  
 Postdoctoral Researcher  
 Hearing Systems Group  
 Technical University of Denmark  
-
 [aakress@dtu.dk](mailto:aakress@dtu.dk)  
 [http://cv.abbiekressner.com](http://cv.abbiekressner.com)  
-[OrCID](https://orcid.org/0000-0003-4274-3948
-) · [LinkedIn](https://www.linkedin.com/in/abbiekressner/) · [Research Gate](https://www.researchgate.net/profile/Abigail_Kressner) · [Google Scholar](https://scholar.google.dk/citations?hl=en&user=cx5G69YAAAAJ)
+[OrCID](https://orcid.org/0000-0003-4274-3948) ·  [LinkedIn](https://www.linkedin.com/in/abbiekressner/) ·  [Research Gate](https://www.researchgate.net/profile/Abigail_Kressner) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=cx5G69YAAAAJ)  
 
 
 ## Education

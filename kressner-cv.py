@@ -126,7 +126,7 @@ def html(lines, contact_lines, *args):
         replace = lambda l: l.replace(r"\%s" % word, word)
         lines = list(map(replace, lines))
         contact_lines = list(map(replace, contact_lines))
-    
+
     gravatar = None
     for line in contact_lines:
         if '@' in line and '--no-gravatar' not in args:
@@ -137,7 +137,7 @@ def html(lines, contact_lines, *args):
         contact_lines.insert(0, "<img src='{}' />".format(gravatar))
 
     lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
-            ("<p>" + "<br>".join(contact_lines) + "<br><a href='http://cv.abbiekressner.com/kressner-cv.pdf'>curriculum vitae</a></p>"))
+            ("<p>" + "<br>".join(contact_lines) + "<br><a href='http://cv.abbiekressner.com/kressner-cv.pdf'>Curriculum Vitae</a></p>"))
     lines.insert(1, "<div>")
     lines.append("</div>")
 
