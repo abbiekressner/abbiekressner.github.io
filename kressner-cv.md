@@ -301,7 +301,7 @@ Technical University of Denmark
 ## Outreach {.htmlhide}
 * Volunteer · Technical University of Denmark's Diversity and Gender Equality · 2018-present
 
-    - Assisting gender equality consultant to initiate a "Women's Camp", which will have the primary goal of recruiting more women applicants to the university
+    - Developing a technology camp for girls, which will have the primary goal of recruiting more women applicants to the university
 
 * Speaker · Virum Gymnasium Visit at the Technical University of Denmark · 11/2017
 
