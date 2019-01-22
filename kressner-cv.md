@@ -205,9 +205,9 @@ Technical University of Denmark
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
-* Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, JASA, in review.
+* Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, JASA, in press.
 
-* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, accepted.
+* Abigail Anne Kressner, Tobias May, and Torsten Dau. The effect of noise reduction gain errors on simulated cochlear implant speech intelligibility, Trends in Hearing, in press.
 
 * Abigail Anne Kressner, Adam Westermann, and Jörg Matthias Buchholz. The impact of reverberation on speech intelligibility in cochlear implant recipients, Journal of the Acoustical Society of America, 144(2):1113-1122, August 2018. [[paper](https://doi.org/10.1121/1.5051640)]
 
