@@ -270,6 +270,9 @@ Technical University of Denmark
 
 
 ## Professional activities {.htmlhide}
+* 2019-2020
+:   Technical Committee for the Baltic-Nordic Acoustic Meeting 2020
+
 * 2018-present
 :   Organizing committee for the International Symposium on Auditory and Audiological Research
 
