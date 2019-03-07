@@ -9,7 +9,7 @@ body {
 
 #container {
     margin: auto;
-    width: 7in;
+    width: 8in;
     padding-bottom: .5in;
 }
 
@@ -23,6 +23,7 @@ body {
     float: right;
     text-align: right;
     padding-left: 25px;
+    width: 310px;
 }
 
 #contact p {
@@ -61,6 +62,10 @@ h2 {
     font-size: 18px;
     font-weight: 300;
 }
+
+/* h2#education {
+  padding-top: 200px;
+} */
 
 h3 {
     margin-top: 0px;

@@ -2,9 +2,9 @@ Abigail Anne Kressner
 =============================
 
 Nickname: Abbie  
-Postdoctoral Researcher  
-Hearing Systems Group  
+Assistant Professor  
 Technical University of Denmark  
+Rigshopitalet  
 [aakress@dtu.dk](mailto:aakress@dtu.dk)  
 [http://cv.abbiekressner.com](http://cv.abbiekressner.com)  
 [OrCID](https://orcid.org/0000-0003-4274-3948) ·  [LinkedIn](https://www.linkedin.com/in/abbiekressner/) ·  [Research Gate](https://www.researchgate.net/profile/Abigail_Kressner) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=cx5G69YAAAAJ)  
@@ -68,13 +68,17 @@ Technical University of Denmark
 
 
 ## Research and work experience {.htmlhidedescription}
+* Assistant Professor · Technical University of Denmark and Rigshospitalet · Copenhagen, Denmark · 3/2019 to present
+
+    - Assistant Professor in Audiology and Hearing Rehabilitation with a joint appointment at the Hearing Systems Group, Department of Health Technology, Technical University of Denmark and at the Ear, Nose and Throat (ENT) & Audiology Clinic at Rigshopitalet, Copenhagen University Hospital, Denmark
+
 * Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
 
     - Investigated models for cochlear implant speech intelligibility prediction
 
-* Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to present
+* Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to 3/2019
 
-    -  Investigating speech in noise for cochlear implant recipients, both in the areas of speech intelligibility prediction and psychoacoustic experimentation
+    -  Investigated speech in noise for cochlear implant recipients, both in the areas of speech intelligibility prediction and psychoacoustic experimentation
 
 * Visiting Scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
 
