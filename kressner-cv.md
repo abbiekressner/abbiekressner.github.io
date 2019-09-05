@@ -164,6 +164,10 @@ Rigshopitalet
 
 
 ## Student supervision {.htmlhide}
+* Rasmus Malik Thaarup Høegh · 2019-present
+
+  - Industrial PhD: *Probabilistic deep learning for hearing aid speech separation*
+
 * Wiebke Lamping · 2018-present
 
     - PhD thesis: *Improving music perception and voice pitch in cochlear implant users*
@@ -243,6 +247,10 @@ Rigshopitalet
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Conference abstracts
+* Rasmus Østergaard Bendsen, Abigail Anne Kressner, and Torsten Dau. Effect of linked and “spatially aware” cochlear-implant compression on spatial perception in a reverberant room. In Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2019.
+
+* Wiebke Lamping, Tobias Goehring, Abigail Anne Kressner, Jeremy Marozeau, and Robert P. Carlyon. A coding strategy to remove temporally masked pulses and its effect on speech perception by CI listeners. In Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2019.
+
 * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Predicting the impact of noise and noise reduction algorithms on speech intelligibility in cochlear implant recipients. In 2017 Audiological Research Cores in Europe (ARCHES), Leuven, Belgium, November 2017.
 
 * Abigail Anne Kressner, Stefan J. Mauger, Adam A. Hersbach, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility. In 2017 Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2017.
@@ -276,6 +284,9 @@ Rigshopitalet
 ## Professional activities {.htmlhide}
 * 2019-2020
 :   Technical Committee for the Baltic-Nordic Acoustic Meeting 2020
+
+* 2019-present
+:   Editor for the Proceedings of the International Symposium on Auditory and Audiological Research
 
 * 2018-present
 :   Organizing committee for the International Symposium on Auditory and Audiological Research
