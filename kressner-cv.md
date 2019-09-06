@@ -282,19 +282,22 @@ Rigshopitalet
 
 
 ## Professional activities {.htmlhide}
+* 2019-present
+:   Reviewer for the Journal of the Association for Research in Otolaryngology
+
 * 2019-2020
 :   Technical Committee for the Baltic-Nordic Acoustic Meeting 2020
 
 * 2019-present
 :   Editor for the Proceedings of the International Symposium on Auditory and Audiological Research
 
-* 2018-present
+* 2019-present
 :   Organizing committee for the International Symposium on Auditory and Audiological Research
 
 * 2018-present
 :   Reviewer for Trends in Hearing
 
-* 2017
+* 2017-present
 :   Reviewer for the Proceedings of the International Symposium on Auditory and Audiological Research
 
 * 2017-present
