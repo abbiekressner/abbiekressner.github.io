@@ -4,7 +4,7 @@ Abigail Anne Kressner
 Nickname: Abbie  
 Assistant Professor  
 Technical University of Denmark  
-Rigshopitalet  
+Rigshopitalet, Copenhagen University Hospital  
 [aakress@dtu.dk](mailto:aakress@dtu.dk)  
 [http://cv.abbiekressner.com](http://cv.abbiekressner.com)  
 [OrCID](https://orcid.org/0000-0003-4274-3948) ·  [LinkedIn](https://www.linkedin.com/in/abbiekressner/) ·  [Research Gate](https://www.researchgate.net/profile/Abigail_Kressner) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=cx5G69YAAAAJ)  
@@ -70,7 +70,7 @@ Rigshopitalet
 ## Research and work experience {.htmlhidedescription}
 * Assistant Professor · Technical University of Denmark and Rigshospitalet · Copenhagen, Denmark · 3/2019 to present
 
-    - Assistant Professor in Audiology and Hearing Rehabilitation with a joint appointment at the Hearing Systems Group, Department of Health Technology, Technical University of Denmark and at the Ear, Nose and Throat (ENT) & Audiology Clinic at Rigshopitalet, Copenhagen University Hospital, Denmark
+    - Assistant Professor in Audiology and Hearing Rehabilitation with a joint appointment at the Hearing Systems Group, Department of Health Technology, Technical University of Denmark and at the Ear, Nose and Throat (ENT) Surgical & Audiological Clinic at Rigshopitalet, Copenhagen University Hospital, Denmark
 
 * Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
 
@@ -141,6 +141,14 @@ Rigshopitalet
 
     - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
 
+* MSc-level special course supervisor · Technical University of Denmark · Fall 2017
+
+    - Project-based special course on *Neural networks for improved hearing loss compensation*
+
+* PhD-level special course supervisor · Technical University of Denmark · May 2017
+
+    - Project-based special course on *Real-time noise reduction in a master hearing aid*
+
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
     - Laboratory exercise on speaker identification in Auditory Signal Processing and Perception (Course 31236)
@@ -149,6 +157,10 @@ Rigshopitalet
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
     - Laboratory exercise on signal processing in Auditory Signal Processing and Perception (Course 31236)
+
+* Student supervision in project-based course · Technical University of Denmark · January 2016
+
+    - Project titled *Perceptual evaluation of noise reduction algorithm errors* in Technical Audiology and Experimental Hearing Science (Course 31232)
 
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
 
@@ -164,35 +176,29 @@ Rigshopitalet
 
 
 ## Student supervision {.htmlhide}
-* Rasmus Malik Thaarup Høegh · 2019-present
+* Mihaela-Beatrice Neagu · PhD student · 2019-present
 
-  - Industrial PhD: *Probabilistic deep learning for hearing aid speech separation*
+    - *Evaluation of pupillometry as a diagnostic tool*
 
-* Wiebke Lamping · 2018-present
+* Rasmus Malik Thaarup Høegh · Industrial PhD student · 2019-present
 
-    - PhD thesis: *Improving music perception and voice pitch in cochlear implant users*
+    - *Probabilistic deep learning for hearing aid speech separation*
 
-* Rasmus Bendsen · 2018
+* Wiebke Lamping · PhD student · 2018-present
 
-    - MSc thesis: *Spatial perception in reverberant environments with cochlear implant recipients*
+    - *Improving music perception and voice pitch in cochlear implant users*
 
-* Rasmus Malik Thaarup Høegh · 2017
+* Rasmus Bendsen · MSc student · 2018
 
-    - MSc-level special course: *Neural networks for improved hearing loss compensation*
-    - Project coordinated in collaboration with Bose Corporation
+    - *Spatial perception in reverberant environments with cochlear implant recipients*
 
-* Rasmus Malik Thaarup Høegh and Kristine Juhl · 2016
+* Rasmus Malik Thaarup Høegh and Kristine Juhl · BSc students · 2016
 
-    - BSc thesis: *Analysis of estimated binary mask errors*
+    - *Analysis of estimated binary mask errors*
 
-* Technical Audiology and Experimental Hearing Science · 2016
+* Thomas Bentsen · PhD student · 2015-2018
 
-    - MSc-level course: *Perceptual evaluation of noise reduction algorithm errors*
-
-* Thomas Bentsen · 2015-2018
-
-    - PhD thesis: *Computational speech segregation inspired by principles of auditory processing*
-    - External research stay coordinated in collaboration with Cochlear Ltd.
+    - *Computational speech segregation inspired by principles of auditory processing*
 
 
 ## Skills {.htmlhide}
@@ -283,16 +289,27 @@ Rigshopitalet
 
 ## Professional activities {.htmlhide}
 * 2019-present
-:   Reviewer for the Journal of the Association for Research in Otolaryngology
+:   Member of the Ear, Nose, and Throat Surgical & Audiological Clinic's Research Council
 
 * 2019-2020
 :   Technical Committee for the Baltic-Nordic Acoustic Meeting 2020
 
 * 2019-present
+:   Organizing committee for the International Symposium on Auditory and Audiological Research
+
+* 2013-2014
+:   Member of American Auditory Society
+
+* 2010-2014
+:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
+
+
+## Editorial activities {.htmlhide}
+* 2019-present
 :   Editor for the Proceedings of the International Symposium on Auditory and Audiological Research
 
 * 2019-present
-:   Organizing committee for the International Symposium on Auditory and Audiological Research
+:   Reviewer for the Journal of the Association for Research in Otolaryngology
 
 * 2018-present
 :   Reviewer for Trends in Hearing
@@ -311,12 +328,6 @@ Rigshopitalet
 
 * 2014-present
 :   Reviewer for IEEE Transactions on Audio, Speech, and Language Processing
-
-* 2013-2014
-:   Member of American Auditory Society
-
-* 2010-2014
-:   Member of Institute of Electrical and Electronics Engineers (IEEE) and IEEE Signal Processing Society
 
 
 ## Outreach {.htmlhide}
