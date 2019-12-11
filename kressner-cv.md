@@ -14,13 +14,13 @@ Rigshopitalet, Copenhagen University Hospital
 * 2011-2015
 :   Ph.D. · Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: Structure in time-frequency binary masking  
+>   Thesis: *Structure in time-frequency binary masking*  
 >   Advisor: Dr. Christopher John Rozell
 
 * 2009-2011
 :   M.S. · Electrical and Computer Engineering · Georgia Institute of Technology
 
->   Thesis: Auditory models for evaluating algorithms  
+>   Thesis: *Auditory models for evaluating algorithms*  
 >   Advisor: Dr. Christopher John Rozell
 
 * 2008
@@ -31,17 +31,33 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Research support
+* 2020-2022
+:   Project grant co-funded by GN Resound, Widex, and Demant (PI)  
+
+>   *Larger Danish corpus for sentence testing*  
+>   DKK 1.5m (USD 225k)
+
 * 2015-2017
-:   Postdoctoral grant from Det Frie Forskningsråd (DFF; Danish Council for Independent Research)
+:   Postdoctoral grant from Det Frie Forskningsråd (DFF; Danish Council for Independent Research)  
+
+>   *Cochlear implant channel selection errors*  
+>   DKK 1.8m (USD 215k); ~11% success rate
 
 * 2014-2015
-:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)
+:   National Science Foundation (NSF) Graduate Research Opportunities Worldwide (GROW)  
+
+>   *Evaluating speech enhancement and stimulation strategies with a cochlear implant research platform in a realistic virtual sound environment*  
+>   AUD 20k + USD 5k (USD 22k)
 
 * 2010-2015
-:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+:   National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)  
+
+>   USD 138k (estimated); ~12.5% success rate
 
 * 2010-2013
-:   National Defense Science & Engineering Graduate (NDSEG) Fellowship
+:   National Defense Science & Engineering Graduate (NDSEG) Fellowship  
+
+>   USD 225k (estimated); ~6% success rate
 
 
 ## Awards {.htmlhide}
@@ -129,6 +145,10 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Teaching experience {.htmlhide}
+* MSc-level special course supervisor · Technical University of Denmark · Fall 2019
+
+    - Project-based special course on *Cochlear implants loudness scaling*
+
 * Guest lecturer · Technical University of Denmark · Spring 2018
 
     - Lecture on signal processing in Auditory Signal Processing and Perception (Course 31236)
@@ -184,7 +204,7 @@ Rigshopitalet, Copenhagen University Hospital
 
     - *Probabilistic deep learning for hearing aid speech separation*
 
-* Wiebke Lamping · PhD student · 2018-present
+* Wiebke Lamping · PhD student · 2018-2019
 
     - *Improving music perception and voice pitch in cochlear implant users*
 
