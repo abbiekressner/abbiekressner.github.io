@@ -31,7 +31,7 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Research support
-* 2020-2022
+* 2021-2023
 :   Project grant co-funded by GN Resound, Widex, and Demant (PI)  
 
 >   *Larger Danish corpus for sentence testing*  
@@ -83,55 +83,27 @@ Rigshopitalet, Copenhagen University Hospital
 :   Society of Women Engineers Scholar
 
 
-## Research and work experience {.htmlhidedescription}
-* Assistant Professor · Technical University of Denmark and Rigshospitalet · Copenhagen, Denmark · 3/2019 to present
+## Positions {.htmlhidedescription}
+* 2019-present
+:   Assistant Professor · Technical University of Denmark and Rigshospitalet
 
-    - Assistant Professor in Audiology and Hearing Rehabilitation with a joint appointment at the Hearing Systems Group, Department of Health Technology, Technical University of Denmark and at the Ear, Nose and Throat (ENT) Surgical & Audiological Clinic at Rigshopitalet, Copenhagen University Hospital, Denmark
+* 2017
+: Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia
 
-* Visiting Postdoctoral Researcher · Cochlear, Ltd · Melbourne, Australia · 01/2017 to 04/2017
+* 2015-2019
+: Postdoctoral Researcher · Technical University of Denmark
 
-    - Investigated models for cochlear implant speech intelligibility prediction
+* 2014-2015
+: Visiting Scholar · National Acoustic Laboratories · Sydney, Australia
 
-* Postdoctoral Researcher · Technical University of Denmark · Copenhagen, Denmark · 10/2015 to 3/2019
+* 2008
+: Research Intern · Widex A/S · Værløse, Denmark
 
-    -  Investigated speech in noise for cochlear implant recipients, both in the areas of speech intelligibility prediction and psychoacoustic experimentation
+* 2007
+: Research Intern · Knowles Electronics, LLC · Illinois, USA
 
-* Visiting Scholar · National Acoustic Laboratories · Sydney, Australia · 6/2014 to 2/2015
-
-    - Investigated the influence of binary time-frequency gain manipulation errors in cochlear implant recipients
-
-* Consultant · United Sciences, LLC · Atlanta, Georgia, USA · 6/2013 to 3/2014
-
-    - Advised in the areas of acoustics and signal processing for new product development
-
-* Graduate Research Assistant · Georgia Institute of Technology · 8/2009 to 5/2015
-
-    - Evaluated the generalizability of the Hearing Aid Speech Quality Index (HASQI)
-    - Investigated the effect of statistical structure in the gains applied during noise reduction by conducting listener experiments with both normal-hearing listeners and cochlear implant recipients
-
-* Research Assistant · Vanderbilt University ·  Nashville, Tennessee, USA · 1/2009 to 7/2009
-
-    - Developed Graphical User Interface in Matlab for implementing principal component analysis on event-related potentials of speech process
-
-* Research Intern · Widex A/S · Værløse, Denmark · 1/2008 to 7/2008
-
-    - Investigated the influence of earmold venting on hearing aid feedback to facilitate better vent placement
-
-* Research Intern · Knowles Electronics, LLC · Itasca, Illinois, USA · 5/2007 to 8/2007
-
-    - Investigated the use of two directional microphones for sound source separation in the ear canal
-
-* Research Intern · AuSIM, Inc · Palo Alto, California, USA · 5/2006 to 8/2006
-
-    - Aided in the design of a field communication system that maintains 3D spatial relationships among users
-
-* National Science Foundation's Research Experiences for Undergraduates · Baltimore, Maryland, USA · 6/2005 to 8/2005
-
-    - Developed computational model of autoassociative neural network as part of the University of Maryland Baltimore County's Summer Program in Computational Biology
-
-* Research Assistant · Washington University in St. Louis · St Louis, Missouri, USA · 2/2005 to 5/2007
-
-    - Investigated the influence of auditory cues on self-orientation
+* 2006
+: Research Intern · AuSIM, Inc · California, USA
 
 
 ## Teaching education {.htmlhide}
@@ -309,7 +281,7 @@ Rigshopitalet, Copenhagen University Hospital
 
 ## Professional activities {.htmlhide}
 * 2019-present
-:   Member of the Ear, Nose, and Throat Surgical & Audiological Clinic's Research Council
+:   Member of Rigshospitalet's Ear, Nose, and Throat Surgical & Audiological Clinic's Research Council
 
 * 2019-2020
 :   Technical Committee for the Baltic-Nordic Acoustic Meeting 2020
