@@ -211,7 +211,7 @@ Rigshopitalet, Copenhagen University Hospital
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
-* Niels West, Abigail Anne Kressner, Line Husted Baungaard, Matilde Grønborg Sandvej, Michael Bille, and Per Cayé-Thomasen. Nordic results of cochlear implantation in adults: Speech reception and patient reported outcomes, Acta Oto-Laryngologica, in review.
+* Niels West, Abigail Anne Kressner, Line Husted Baungaard, Matilde Grønborg Sandvej, Michael Bille, and Per Cayé-Thomasen. Nordic results of cochlear implantation in adults: Speech reception and patient reported outcomes, Acta Oto-Laryngologica, in press.
 
 * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, Journal of the Acoustical Society of America, 145(2):818-821, February 2019 [[paper](https://doi.org/10.1121/1.5089887)].
 
@@ -247,6 +247,8 @@ Rigshopitalet, Copenhagen University Hospital
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Conference abstracts
+* Mihaela-Beatrice Neagu, Torsten Dau, Abigail Anne Kressner, Helia Relaño Iborra, Per Bækgaard, and Dorothea Wendt. Investigating the reliability of pupillometry as an individualized measure of listening effort. In Association for Research in Otolaryngology (ARO), February 2021.
+
 * Rasmus Østergaard Bendsen, Abigail Anne Kressner, and Torsten Dau. Effect of linked and “spatially aware” cochlear-implant compression on spatial perception in a reverberant room. In Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2019.
 
 * Wiebke Lamping, Tobias Goehring, Abigail Anne Kressner, Jeremy Marozeau, and Robert P. Carlyon. A coding strategy to remove temporally masked pulses and its effect on speech perception by CI listeners. In Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2019.
@@ -299,6 +301,9 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Editorial activities {.htmlhide}
+* 2021-present
+:   Topic Editor for Audiology Research
+
 * 2019-present
 :   Editor for the Proceedings of the International Symposium on Auditory and Audiological Research
 
