@@ -284,6 +284,9 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Professional activities {.htmlhide}
+* 2021-present
+:   Member of the Danish Sound Cluster's working group on 'Healthcare and welfare'
+
 * 2019-present
 :   Member of Rigshospitalet's Ear, Nose, and Throat Surgical & Audiological Clinic's Research Council
 
