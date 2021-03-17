@@ -168,6 +168,18 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Student supervision {.htmlhide}
+* David Gröblbauer · MSc student · 2021
+
+    - *Spatial perception of gain dependent group delay differences in binaural hearing aids using minimum phase*
+
+* Kirsten Maria Jensen Rico · MSc student · 2021
+
+    - *Validation of a virtual reality sound environment - comparing binaural spatialized audio and physical loudspeaker array"
+
+* Anaïs Bouchet · MSc student · 2021
+
+    - *Measuring human hearing with functional near-infrared spectroscopy*
+
 * Mihaela-Beatrice Neagu · PhD student · 2019-present
 
     - *Evaluation of pupillometry as a diagnostic tool*
@@ -211,7 +223,7 @@ Rigshopitalet, Copenhagen University Hospital
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
-* Niels West, Abigail Anne Kressner, Line Husted Baungaard, Matilde Grønborg Sandvej, Michael Bille, and Per Cayé-Thomasen. Nordic results of cochlear implantation in adults: Speech reception and patient reported outcomes, Acta Oto-Laryngologica, in press.
+* West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
 * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, Journal of the Acoustical Society of America, 145(2):818-821, February 2019 [[paper](https://doi.org/10.1121/1.5089887)].
 
