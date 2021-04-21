@@ -215,13 +215,29 @@ Rigshopitalet, Copenhagen University Hospital
 
 ## Publications
 ### Journal publications
+<!-- Investigating the reliability of pupillometry method as an individualized listening effort measure on different features of the pupil
+Mihaela-Beatrice Neagu, Torsten Dau, Per Bækgaard, Helia Relano Iborra1, Abigail Anne Kressner, Dorothea Wendt
+ -->
+
+<!-- COCHLEAR IMPLANTATION FOR VESTIBULAR SCHWANNOMAS: SURGERY AND HEARING OUTCOMES
+Authors and order: Niels, Rikke, Abbie?, Jeremy, Per
+Data/tests: SSQ12, NCIQ, Bimodal hearing benefit with Dantale (summation (S0N0), head shadow effect (SCIN0), squelch (S0NCI)), directional hearing (Burst)
+Here we will focus on the more classical clinical outcome measures.
+-->
+
+<!-- TESTING COCHLEAR IMPLANT RECIPIENTS IN THE AVIL: using more ecological valid scenario
+Data/tests: directional hearing (Vowel), HINT, optional Hearing Handicap Inventory (HHI)
+we will use compare in the discussion HINT with DANTALE (published in your paper), and directional hearing (vowel) with burst.
+Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
+-->
+
 <!-- * Rasmus Bendsen, Abigail Anne Kressner, and Torsten Dau. Effects of cochlear implant compression on spatial perception in a reverberant environment, in preparation. -->
 
 <!-- * Abigail Anne Kressner and Torsten Dau. The influence of compression on the preservation of interaural level differences in bilateral cochlear implants, in preparation. -->
 
-<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
-
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
+
+<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
 * West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
