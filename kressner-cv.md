@@ -31,8 +31,14 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Research support
+* 2022
+:   Project grant funded by WS Audiology
+
+>   *The effect of first-time hearing aid use on social participation*  
+>   DKK 166k???
+
 * 2021-2023
-:   Project grant co-funded by GN Resound, Widex, and Demant (PI)  
+:   Project grant co-funded by GN Hearing, WS Audiology, and Demant (PI)  
 
 >   *Larger Danish corpus for sentence testing*  
 >   DKK 1.5m (USD 225k)
@@ -117,6 +123,14 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Teaching experience {.htmlhide}
+* Lecturer · Technical University of Denmark · January 2022
+
+    - Technical Audiology and Experimental Hearing Science (5 ETCS, Course number 22002)
+
+* Lecturer · Technical University of Denmark · Fall 2021
+
+    - Acoustic Communication (10 ETCS, Course number 22000)
+
 * MSc-level special course supervisor · Technical University of Denmark · Fall 2019
 
     - Project-based special course on *Cochlear implants loudness scaling*
@@ -282,17 +296,29 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Abigail Anne Kressner. Building bridges between clinicians and engineers within audiology. Danish Sound Day 2021.
 
 ### Conference abstracts
+* Helia's ARO2022
+
 * Mihaela's ARO2022
 
-* Maaike's fNIRS2021
+* Maaike Van Eeckhoutte, Anaïs Bouchet, Erik Kjærbøl, Abigail Anne Kressner
+Reliability of functional near-infrared spectroscopy responses to auditory stimulation, fNIRS, 19 Oct 2021
 
-* K. Jensen Rico, R. Lyndby Petersen, K. Faulkner, F. Patou, J. Marozeau, A. Kressner. Cognitive load in a virtual sound localization task: a pupillometry study.???
+* K. Jensen Rico, R. Lyndby Petersen, K. Faulkner, F. Patou, J. Marozeau, A. Kressner. Cognitive load in a virtual sound localization task: a pupillometry study, ESPCI, 29 Oct 2021
 
 * Mihaela's ISAAR2021
+Baseline pupil size affects the temporal dynamics of the task evoked pupillary response in a speech in noise listening task
+Helia Relaño-Iborra (Speaker), Mihaela-Beatrice Neagu (Other), Abigail Anne Kressner (Other), Torsten Dau (Other), Per Bækgaard (Other) & Dorothea Wendt (Other)
+23 Aug 2021 → 27 Aug 2021
 
 * Anais's ISAAR2021
+Measuring human hearing with functional near-infrared spectroscopy: Test-retest reliability
+Anaïs Bouchet (Speaker), Abigail Anne Kressner (Other), Erik Kjærbøl (Other) & Maaike Charlotte Van Eeckhoutte (Other)
+25 Aug 2021
 
 * Helia's ISAAR2021
+Baseline pupil size affects the temporal dynamics of the task evoked pupillary response in a speech in noise listening task
+Helia Relaño-Iborra (Speaker), Mihaela-Beatrice Neagu (Other), Abigail Anne Kressner (Other), Torsten Dau (Other), Per Bækgaard (Other) & Dorothea Wendt (Other)
+23 Aug 2021 → 27 Aug 2021
 
 * Mihaela-Beatrice Neagu, Torsten Dau, Abigail Anne Kressner, Helia Relaño Iborra, Per Bækgaard, and Dorothea Wendt. Investigating the reliability of pupillometry as an individualized measure of listening effort. In Association for Research in Otolaryngology (ARO), February 2021.
 
