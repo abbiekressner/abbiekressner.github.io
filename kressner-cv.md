@@ -168,6 +168,10 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Student supervision {.htmlhide}
+* Borgný Súsonnudóttir Hansen · MSc student · 2021
+
+    - *Effects of minimum phase processing on speech and spatial perception in binaural hearing aids*
+
 * David Gröblbauer · MSc student · 2021
 
     - *Spatial perception of gain dependent group delay differences in binaural hearing aids using minimum phase*
@@ -274,7 +278,22 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
+### Invited talks
+* Abigail Anne Kressner. Building bridges between clinicians and engineers within audiology. Danish Sound Day 2021.
+
 ### Conference abstracts
+* Mihaela's ARO2022
+
+* Maaike's fNIRS2021
+
+* K. Jensen Rico, R. Lyndby Petersen, K. Faulkner, F. Patou, J. Marozeau, A. Kressner. Cognitive load in a virtual sound localization task: a pupillometry study.???
+
+* Mihaela's ISAAR2021
+
+* Anais's ISAAR2021
+
+* Helia's ISAAR2021
+
 * Mihaela-Beatrice Neagu, Torsten Dau, Abigail Anne Kressner, Helia Relaño Iborra, Per Bækgaard, and Dorothea Wendt. Investigating the reliability of pupillometry as an individualized measure of listening effort. In Association for Research in Otolaryngology (ARO), February 2021.
 
 * Rasmus Østergaard Bendsen, Abigail Anne Kressner, and Torsten Dau. Effect of linked and “spatially aware” cochlear-implant compression on spatial perception in a reverberant room. In Conference on Implantable Auditory Prostheses (CIAP), Lake Tahoe, California, July 2019.
@@ -305,6 +324,13 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Abigail Anne Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, Georgia, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
 
 * Abigail Anne Kressner. Auditory models for evaluating algorithms. MS thesis. Georgia Institute of Technology, Atlanta, Georgia, August 2011. [[thesis](http://cv.abbiekressner.com/papers/kressner2011thesis.pdf)]
+
+### Invited talks
+<!-- * Danish Sound Day
+
+* VDNR Seminar
+
+* Børneriget Inspirationmødet -->
 
 
 <!-- ## Performance indices {.htmlhide}
