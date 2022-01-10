@@ -257,6 +257,8 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
+<!-- * Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner Torsten Dau and Per Bækgaard Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech in noise task. In preparation. -->
+
 * West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
 * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, Journal of the Acoustical Society of America, 145(2):818-821, February 2019 [[paper](https://doi.org/10.1121/1.5089887)].
