@@ -280,6 +280,8 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Abigail Anne Kressner, David V. Anderson, and Christopher John Rozell. Evaluating the generalization of the Hearing Aid Speech Quality Index (HASQI). IEEE Transactions in Audio, Speech and Language Processing, 21(2):407-415, February 2013. [[paper](http://dx.doi.org/10.1109/TASL.2012.2217132), [code](https://github.com/abbiekressner/kressner-2013-evaluating)]
 
 ### Conference publications
+<!-- * Rasmus Malik Thaarup Høegh, Jens Brehm Nielsen, Abigail Anne Kressner, Morten Mørup. Improving Speaker Separation Generalization with Variational Inference. NeuRIPS 2022. -->
+
 * Abigail Anne Kressner, Tobias May, Rasmus Malik Thaarup Høegh, Kristine Aavild Juhl, Thomas Bentsen, and Torsten Dau. Investigating the effects of noise-estimation errors in simulated cochlear implant speech intelligibility. In International Symposium on Auditory and Audiological Research (ISAAR), Nyborg, Denmark, August 2017. [[paper](https://proceedings.isaar.eu/index.php/isaarproc/article/view/2017-36)]
 
 * Thomas Bentsen, Tobias May, Abigail Anne Kressner, and Torsten Dau. Comparing the influence of spectro-temporal integration in computational speech segregation. In Proceedings of Interspeech, San Francisco, California, September 2016. [[paper](http://cv.abbiekressner.com/papers/bentsen2016comparing.pdf)]
