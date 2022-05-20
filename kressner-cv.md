@@ -233,14 +233,14 @@ Rigshopitalet, Copenhagen University Hospital
 
 ## Publications
 ### Journal publications
-<!-- Investigating the reliability of pupillometry method as an individualized listening effort measure on different features of the pupil
-Mihaela-Beatrice Neagu, Torsten Dau, Per Bækgaard, Helia Relano Iborra1, Abigail Anne Kressner, Dorothea Wendt
+<!-- Investigating the reliability of pupillometry as a measure of individualized listening effort
+Neagu, Mihaela-Beatrice; Kressner, Abigail; Relaño-Iborra, Helia ; Bækgaard, Per; Dau, Torsten; Wendt, Dorothea
+Trends in Hearing, in review
  -->
 
-<!-- COCHLEAR IMPLANTATION FOR VESTIBULAR SCHWANNOMAS: SURGERY AND HEARING OUTCOMES
-Authors and order: Niels, Rikke, Abbie?, Jeremy, Per
-Data/tests: SSQ12, NCIQ, Bimodal hearing benefit with Dantale (summation (S0N0), head shadow effect (SCIN0), squelch (S0NCI)), directional hearing (Burst)
-Here we will focus on the more classical clinical outcome measures.
+<!-- Cochlear Implantation in Sporadic Intralabyrinthine Schwannomas With Single-Sided Deafness: Implications For Binaural Hearing
+Authors and order: Niels West1,2; Rikke Skovhøj Sørensen3, Abigail Anne Kressner1,3, Michael Bille1,2; Jeremy Marozeau3; Per Cayé-Thomasen
+Frontiers in neurology or Otology & Neurotology, in preparation
 -->
 
 <!-- TESTING COCHLEAR IMPLANT RECIPIENTS IN THE AVIL: using more ecological valid scenario
@@ -253,11 +253,11 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 <!-- * Abigail Anne Kressner and Torsten Dau. The influence of compression on the preservation of interaural level differences in bilateral cochlear implants, in preparation. -->
 
-<!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
+<!-- * Abigail Anne Kressner and Stefan J. Mauger. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
-<!-- * Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner Torsten Dau and Per Bækgaard Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech in noise task. In preparation. -->
+* Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in review.
 
 * West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
@@ -298,6 +298,18 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Abigail Anne Kressner. Building bridges between clinicians and engineers within audiology. Danish Sound Day 2021.
 
 ### Conference abstracts
+<!--
+* Filip Rønne1, Signe Wischmann2, Els Walravens1, David Harbo Jordell2, Sarah Gotowiec1, Abigail Kressner2. Investigating the effect of first-time hearing aid use on self-rated social participation. IHCON 2022.
+
+* Borgny's IHCON 2022
+
+* Lisbeth's IHCON 2022
+
+* Rasmus Høegh, Jens Nielsen, Abigail Anne Kressner, and Morten Mørup. Exploring Speaker Separation Generalization with Variational Inference. In ICML2022.
+
+* Lisbeth's NAS
+Lisbeth Birkelund Simonsen, Abigail Anne Kressner, Torsten Dau, Jaime Andres Undurraga Lucero, and Søren Laugesen. In Nordic Audiologisk Selskab (NAS), June 2022.
+
 * Helia's ARO2022
 
 * Mihaela's ARO2022
@@ -321,6 +333,7 @@ Anaïs Bouchet (Speaker), Abigail Anne Kressner (Other), Erik Kjærbøl (Other) 
 Baseline pupil size affects the temporal dynamics of the task evoked pupillary response in a speech in noise listening task
 Helia Relaño-Iborra (Speaker), Mihaela-Beatrice Neagu (Other), Abigail Anne Kressner (Other), Torsten Dau (Other), Per Bækgaard (Other) & Dorothea Wendt (Other)
 23 Aug 2021 → 27 Aug 2021
+-->
 
 * Mihaela-Beatrice Neagu, Torsten Dau, Abigail Anne Kressner, Helia Relaño Iborra, Per Bækgaard, and Dorothea Wendt. Investigating the reliability of pupillometry as an individualized measure of listening effort. In Association for Research in Otolaryngology (ARO), February 2021.
 
