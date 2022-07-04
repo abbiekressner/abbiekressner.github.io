@@ -299,6 +299,8 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 ### Invited talks
 * Abigail Anne Kressner. Building bridges between clinicians and engineers within audiology. Danish Sound Day 2021.
 
+* Abigail Anne Kressner. Towards better predictions of speech intelligibility in cochlear implant recipients. Virtual Conference on Computational Auditory (VCCA) 2022.
+
 ### Conference abstracts
 <!--
 * Filip Rønne1, Signe Wischmann2, Els Walravens1, David Harbo Jordell2, Sarah Gotowiec1, Abigail Kressner2. Investigating the effect of first-time hearing aid use on self-rated social participation. IHCON 2022.
@@ -362,6 +364,9 @@ Helia Relaño-Iborra (Speaker), Mihaela-Beatrice Neagu (Other), Abigail Anne Kre
 * Abigail Anne Kressner, Christopher John Rozell, and David V. Anderson. Predicting speech quality using a computational auditory model. In IHCON 2010 International Hearing Aid Research Conference, Lake Tahoe, California, August 2010.
 
 * Mads J. Jensen, Morten P. Linkenkaer, and Abigail Anne Kressner. Using FEM to estimate the influence of pinna when calculating hearing aid relevant transfer functions. In IHCON 2008 International Hearing Aid Research Conference, Lake Tahoe, California, August 2008.
+
+### Books
+* Abigail Anne Kressner, Jonathan Regev, Jakob Christensen-Dalsgaard, Lisbeth Tranebjærg, Sébastien Santurette, and Torsten Dau (Eds.). Vol. 7 (2019): Auditory Learning in Biological and Artificial Systems. Proceedings of the International Symposium on Auditory and Audiological Research 7.
 
 ### Other reports
 * Abigail Anne Kressner. Structure in time-frequency binary masking. PhD thesis. Georgia Institute of Technology, Atlanta, Georgia, May 2015. [[thesis](http://cv.abbiekressner.com/papers/kressner2015thesis.pdf)]
