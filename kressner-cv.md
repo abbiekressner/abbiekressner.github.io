@@ -123,17 +123,23 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Teaching experience {.htmlhide}
-* Lecturer · Technical University of Denmark · January 2022
+* Lecturer · Technical University of Denmark · 2022-present
 
-    - Technical Audiology and Experimental Hearing Science (5 ETCS, Course number 22002)
+    - Experimental Hearing Science (5 ETCS, course number 22002, 3-weeks January semester); formally "Technical Audiology and Experimental Hearing Science"
 
-* Lecturer · Technical University of Denmark · Fall 2021
+* Lecturer · Technical University of Denmark · 2021-present
 
-    - Acoustic Communication (10 ETCS, Course number 22000)
+    - Acoustic Communication (10 ETCS, course number 22000, 13-weeks Fall semester)
 
-* MSc-level special course supervisor · Technical University of Denmark · Fall 2019
+* PhD-, MSc, and BSc-level project-based special courses · Technical University of Denmark · 2016-present
 
-    - Project-based special course on *Cochlear implants loudness scaling*
+    - Selected topics:
+      - Introduction to cochlear implant signal processing
+      - Introduction to speech intelligibility modeling
+      - Introduction to frequency response measurements in acoustic transducers for clinical audiology
+      - Introduction to the analysis of auditory-evoked electroencephalographic (EEG) measurements
+      - Introduction to functional near-infrared spectroscopy (fNIRS) signal processing
+      - Real-time noise reduction in a master hearing aid
 
 * Guest lecturer · Technical University of Denmark · Spring 2018
 
@@ -147,14 +153,6 @@ Rigshopitalet, Copenhagen University Hospital
 
     - Lecture on noise reduction techniques in Signals and Linear Systems in Discrete Time (Course 31606)
 
-* MSc-level special course supervisor · Technical University of Denmark · Fall 2017
-
-    - Project-based special course on *Neural networks for improved hearing loss compensation*
-
-* PhD-level special course supervisor · Technical University of Denmark · May 2017
-
-    - Project-based special course on *Real-time noise reduction in a master hearing aid*
-
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
     - Laboratory exercise on speaker identification in Auditory Signal Processing and Perception (Course 31236)
@@ -163,10 +161,6 @@ Rigshopitalet, Copenhagen University Hospital
 * Teacher's assistant · Technical University of Denmark · Spring 2016
 
     - Laboratory exercise on signal processing in Auditory Signal Processing and Perception (Course 31236)
-
-* Student supervision in project-based course · Technical University of Denmark · January 2016
-
-    - Project titled *Perceptual evaluation of noise reduction algorithm errors* in Technical Audiology and Experimental Hearing Science (Course 31232)
 
 * Course development · Georgia Institute of Technology · 5/2013 to 6/2014
 
@@ -182,6 +176,18 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Student supervision {.htmlhide}
+* Andreas Hafstrøm · MSc student · 2022
+
+    - *Evaluation of signal processing methods to determine the reliability of functional near-infrared spectroscopy (fNIRS) for measuring hearing*
+
+* Beatriz de Sousa e Meneses Tomás da Costa · MSc student · 2022
+
+    - *Electrophysiological and behavioral measurements of binaural processing in normal- and hearing-impaired listeners*
+
+* Mats Daniel Rekswinkel · MSc student · 2022
+
+    - *Investigating the correlation between electrophysiologically measured frequency discrimination thresholds and behavioral measurements of speech intelligibility*
+
 * Borgný Súsonnudóttir Hansen · MSc student · 2021
 
     - *Effects of minimum phase processing on speech and spatial perception in binaural hearing aids*
@@ -257,7 +263,7 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
-* Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in review.
+* Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in press.
 
 * West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
