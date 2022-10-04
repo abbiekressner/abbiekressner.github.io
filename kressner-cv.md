@@ -263,7 +263,7 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
-* Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in press.
+* Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in press. https://doi.org/10.1177/23312165221134003
 
 * West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
@@ -309,11 +309,11 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 ### Conference abstracts
 <!--
+* Lisbeth's DTAS 2023
+
 * Filip Rønne1, Signe Wischmann2, Els Walravens1, David Harbo Jordell2, Sarah Gotowiec1, Abigail Kressner2. Investigating the effect of first-time hearing aid use on self-rated social participation. IHCON 2022.
 
 * Borgny's IHCON 2022
-
-* Lisbeth's IHCON 2022
 
 * Rasmus Høegh, Jens Nielsen, Abigail Anne Kressner, and Morten Mørup. Exploring Speaker Separation Generalization with Variational Inference. In ICML2022.
 
