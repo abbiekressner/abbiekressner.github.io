@@ -32,7 +32,7 @@ Rigshopitalet, Copenhagen University Hospital
 
 ## Research support
 * 2022
-:   Project grant funded by WS Audiology
+:   Project grant funded by WS Audiology (PI)
 
 >   *The effect of first-time hearing aid use on social participation*  
 >   DKK 166k???
@@ -303,12 +303,17 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Invited talks
-* Abigail Anne Kressner. Building bridges between clinicians and engineers within audiology. Danish Sound Day 2021.
+* Abigail Anne Kressner. Title TBD. Speech In Noise Workshop. SPIN 2023.
 
 * Abigail Anne Kressner. Towards better predictions of speech intelligibility in cochlear implant recipients. Virtual Conference on Computational Auditory (VCCA) 2022.
 
+* Abigail Anne Kressner. Building bridges between clinicians and engineers within audiology. Danish Sound Day 2021.
+
+
 ### Conference abstracts
 <!--
+* Abigail Anne Kressner. Characterizing SSD patients’ individual localization ability and correlation with speech-in-noise in a more realistically complex listening scenario. Joint Conference on Binaural and Spatial Hearing (BASH) 2022.
+
 * Lisbeth's DTAS 2023
 
 * Filip Rønne1, Signe Wischmann2, Els Walravens1, David Harbo Jordell2, Sarah Gotowiec1, Abigail Kressner2. Investigating the effect of first-time hearing aid use on self-rated social participation. IHCON 2022.
