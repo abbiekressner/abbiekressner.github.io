@@ -31,6 +31,12 @@ Rigshopitalet, Copenhagen University Hospital
 
 
 ## Research support
+* 2023-2024
+:   Project grant funded by GN Store Nord Fondet (PI)
+
+>   *Uncovering the link between hearing loss and mild cognitive impairment (The Link Project)*  
+>   DKK 2.5m
+
 * 2022
 :   Project grant funded by WS Audiology (PI)
 
@@ -40,7 +46,7 @@ Rigshopitalet, Copenhagen University Hospital
 * 2021-2023
 :   Project grant co-funded by GN Hearing, WS Audiology, and Demant (PI)  
 
->   *Larger Danish corpus for sentence testing*  
+>   *Larger Danish corpus for sentence testing (The DAST Project)*  
 >   DKK 1.5m (USD 225k)
 
 * 2015-2017
@@ -303,6 +309,8 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Invited talks
+* Abigail Anne Kressner. Title TBD. Oldenburg University Department Colloquium. July 2023.
+
 * Abigail Anne Kressner. Title TBD. Speech In Noise Workshop. SPIN 2023.
 
 * Abigail Anne Kressner. Towards better predictions of speech intelligibility in cochlear implant recipients. Virtual Conference on Computational Auditory (VCCA) 2022.
