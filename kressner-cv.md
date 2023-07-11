@@ -250,11 +250,6 @@ Neagu, Mihaela-Beatrice; Kressner, Abigail; Relaño-Iborra, Helia ; Bækgaard, P
 Trends in Hearing, in review
  -->
 
-<!-- Cochlear Implantation in Sporadic Intralabyrinthine Schwannomas With Single-Sided Deafness: Implications For Binaural Hearing
-Authors and order: Niels West1,2; Rikke Skovhøj Sørensen3, Abigail Anne Kressner1,3, Michael Bille1,2; Jeremy Marozeau3; Per Cayé-Thomasen
-Frontiers in neurology or Otology & Neurotology, in preparation
--->
-
 <!-- TESTING COCHLEAR IMPLANT RECIPIENTS IN THE AVIL: using more ecological valid scenario
 Data/tests: directional hearing (Vowel), HINT, optional Hearing Handicap Inventory (HHI)
 we will use compare in the discussion HINT with DANTALE (published in your paper), and directional hearing (vowel) with burst.
@@ -268,6 +263,8 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 <!-- * Abigail Anne Kressner and Stefan J. Mauger. Multi-study evaluation of objective measures that predict cochlear implant speech intelligibility, Journal of the Acoustical Society of America, in preparation. -->
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
+
+* Niels West, Rikke Skovhøj Sørensen, Abigail Anne Kressner, Michael Bille, Jeremy Marozeau, & Per Cayé-Thomasen. Cochlear implantation in Sporadic Intralabyrinthine Schwannomas with single-sided deafness: Implications for binaural hearing, Otology & Neurotology, in review.
 
 * Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in press. https://doi.org/10.1177/23312165221134003
 
@@ -320,6 +317,10 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 ### Conference abstracts
 <!--
+* Rekswinkel, Undurraga, Kressner. Cortical and behavioural discrimination in response to vowel-like spectral cues. IERASG 2023.
+
+* Lisbeth's Lyon summer school contribution about the protocol for the longitudinal study (2023)
+
 * Abigail Anne Kressner. Characterizing SSD patients’ individual localization ability and correlation with speech-in-noise in a more realistically complex listening scenario. Joint Conference on Binaural and Spatial Hearing (BASH) 2022.
 
 * Lisbeth's DTAS 2023
