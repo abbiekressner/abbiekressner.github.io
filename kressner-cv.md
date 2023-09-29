@@ -317,7 +317,15 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 ### Conference abstracts
 <!--
+* QuickDAST DTAS 2023.
+
+* Lisbeth's DTAS 2023.
+
+* Lisbeth's IERASG 2023.
+
 * Rekswinkel, Undurraga, Kressner. Cortical and behavioural discrimination in response to vowel-like spectral cues. IERASG 2023.
+
+* DAST at ISAAR 2023.
 
 * Lisbeth's Lyon summer school contribution about the protocol for the longitudinal study (2023)
 
