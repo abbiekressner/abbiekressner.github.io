@@ -264,11 +264,19 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 <!-- * Abigail Anne Kressner, Stefan J. Mauger, and Torsten Dau. Error-rate based metric for predicting speech intelligibility in cochlear implant recipients, IEEE Transactions on Audio, Speech, and Language Processing, in preparation. -->
 
-* Niels West, Rikke Skovhøj Sørensen, Abigail Anne Kressner, Michael Bille, Jeremy Marozeau, & Per Cayé-Thomasen. Cochlear implantation in Sporadic Intralabyrinthine Schwannomas with single-sided deafness: Implications for binaural hearing, Otology & Neurotology, in review.
+<!-- * Janani Fernandez, Leo McCormack, Petteri Hyvärinen, and Abigail Anne Kressner. Investigation of paradigms for assessing localization ability that rely on virtual as opposed to real sources, JASA, in preparation. -->
+
+* Abigail Anne Kressner, Rikke Skovhøj Sørensen, Niels West, Per Cayé-Thomasen and  Jeremy Marozeau. Examination of individual speech and spatial perception in unilateral and bimodal cochlear implant users using a more ecologically valid speech-in-noise test, Acta Acustica, in review.
+
+* Abigail Anne Kressner, Kirsten Maria Jensen Rico, Johannes Kizach, Brian Kai Loong Man, Anja Kofoed Pedersen, Lars Bramsløw, Lise Bruun Hansen, Brent Kirkwood, and Tobias May, The Danish Sentence Test (DAST) corpus of audio and audio-visual recordings of sentences, IJA, in review.
+
+* Niels West, Rikke Skovhøj Sørensen, Abigail Anne Kressner, Michael Bille, Jeremy Marozeau, and Per Cayé-Thomasen. Cochlear implantation in Sporadic Intralabyrinthine Schwannomas with single-sided deafness: Implications for binaural hearing, Otology & Neurotology, in review.
+
+* Janani Fernandez, Leo McCormack, Petteri Hyvärinen, and Abigail Anne Kressner. Investigating sound-field reproduction methods as perceived by bilateral hearing aid users, JASA, in review.
 
 * Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in press. https://doi.org/10.1177/23312165221134003
 
-* West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., & Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
+* West, N. C., Kressner, A. A., Baungaard, L. H., Sandvej, M. G., Bille, M., and Cayé-Thomasen, P. (2020). Nordic results of cochlear implantation in adults: speech perception and patient reported outcomes. Acta Oto-Laryngologica, 140(11), 939–947. https://doi.org/10.1080/00016489.2020.1816656
 
 * Thomas Bentsen, Stefan J. Mauger, Abigail Anne Kressner, Tobias May, and Torsten Dau. The impact of noise power estimation on speech intelligibility in cochlear-implant speech coding strategies, Journal of the Acoustical Society of America, 145(2):818-821, February 2019 [[paper](https://doi.org/10.1121/1.5089887)].
 
