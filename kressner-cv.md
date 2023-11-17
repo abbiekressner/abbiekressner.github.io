@@ -250,12 +250,6 @@ Neagu, Mihaela-Beatrice; Kressner, Abigail; Relaño-Iborra, Helia ; Bækgaard, P
 Trends in Hearing, in review
  -->
 
-<!-- TESTING COCHLEAR IMPLANT RECIPIENTS IN THE AVIL: using more ecological valid scenario
-Data/tests: directional hearing (Vowel), HINT, optional Hearing Handicap Inventory (HHI)
-we will use compare in the discussion HINT with DANTALE (published in your paper), and directional hearing (vowel) with burst.
-Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
--->
-
 <!-- * Rasmus Bendsen, Abigail Anne Kressner, and Torsten Dau. Effects of cochlear implant compression on spatial perception in a reverberant environment, in preparation. -->
 
 <!-- * Abigail Anne Kressner and Torsten Dau. The influence of compression on the preservation of interaural level differences in bilateral cochlear implants, in preparation. -->
@@ -270,9 +264,9 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 
 * Abigail Anne Kressner, Kirsten Maria Jensen Rico, Johannes Kizach, Brian Kai Loong Man, Anja Kofoed Pedersen, Lars Bramsløw, Lise Bruun Hansen, Brent Kirkwood, and Tobias May, The Danish Sentence Test (DAST) corpus of audio and audio-visual recordings of sentences, IJA, in review.
 
-* Niels West, Rikke Skovhøj Sørensen, Abigail Anne Kressner, Michael Bille, Jeremy Marozeau, and Per Cayé-Thomasen. Cochlear implantation in Sporadic Intralabyrinthine Schwannomas with single-sided deafness: Implications for binaural hearing, Otology & Neurotology, in review.
+* Niels West, Rikke Skovhøj Sørensen, Abigail Anne Kressner, Michael Bille, Jeremy Marozeau, and Per Cayé-Thomasen. Cochlear implantation in Sporadic Intralabyrinthine Schwannomas with single-sided deafness: Implications for binaural hearing, Otology & Neurotology, in press.
 
-* Janani Fernandez, Leo McCormack, Petteri Hyvärinen, and Abigail Anne Kressner. Investigating sound-field reproduction methods as perceived by bilateral hearing aid users, JASA, in review.
+* Janani Fernandez, Leo McCormack, Petteri Hyvärinen, and Abigail Anne Kressner. Investigating sound-field reproduction methods as perceived by bilateral hearing aid users, JASA, accepted.
 
 * Helia Relaño-Iborra, Dorothea Wendt, Mihaela Beatrice Neagu, Abigail Anne Kressner, Torsten Dau, and Per Bækgaard. Baseline pupil size modulates the temporal dynamics of the task-evoked pupillary response in a speech-in-noise task. Trends in Hearing, in press. https://doi.org/10.1177/23312165221134003
 
@@ -314,6 +308,8 @@ Authors and order: Rikke, Niels, Naim, Abbie?, Per, Jeremy
 * Adam S. Charles, Abigail Anne Kressner, and Christopher John Rozell. A Causal Locally Competitive Algorithm for the Sparse Decomposition of Audio Signals. In Proceedings of the IEEE Digital Signal Processing (DSP) Workshop, Sedona, Arizona, January 2011. [[paper](http://cv.abbiekressner.com/papers/charles2011causal.pdf)]
 
 ### Invited talks
+<!-- * Danish Sound Day 2023? -->
+
 * Abigail Anne Kressner. Title TBD. Oldenburg University Department Colloquium. July 2023.
 
 * Abigail Anne Kressner. Title TBD. Speech In Noise Workshop. SPIN 2023.
